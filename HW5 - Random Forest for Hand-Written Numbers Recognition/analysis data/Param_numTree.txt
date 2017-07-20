@@ -1,0 +1,750 @@
+tree:  100
+Error rate: 9.72% ( 243/2500)
+ - Class 1:  22, Class 2:  15, Class 3:  93, Class 4:  85, Class 5:  28
+tree:  100
+Error rate: 8.44% ( 211/2500)
+ - Class 1:  26, Class 2:  17, Class 3:  95, Class 4:  50, Class 5:  23
+tree:  100
+Error rate: 8.48% ( 212/2500)
+ - Class 1:  18, Class 2:  15, Class 3:  92, Class 4:  55, Class 5:  32
+tree:  100
+Error rate: 9.24% ( 231/2500)
+ - Class 1:  24, Class 2:  14, Class 3: 103, Class 4:  72, Class 5:  18
+tree:  100
+Error rate: 9.00% ( 225/2500)
+ - Class 1:  21, Class 2:  15, Class 3: 121, Class 4:  48, Class 5:  20
+tree:  100
+Error rate: 8.68% ( 217/2500)
+ - Class 1:  25, Class 2:  14, Class 3: 107, Class 4:  52, Class 5:  19
+tree:  100
+Error rate: 8.40% ( 210/2500)
+ - Class 1:  19, Class 2:  12, Class 3: 105, Class 4:  50, Class 5:  24
+tree:  100
+Error rate: 9.40% ( 235/2500)
+ - Class 1:  23, Class 2:  16, Class 3:  92, Class 4:  57, Class 5:  47
+tree:  100
+Error rate: 8.00% ( 200/2500)
+ - Class 1:  18, Class 2:  14, Class 3:  99, Class 4:  46, Class 5:  23
+tree:  100
+Error rate: 8.44% ( 211/2500)
+ - Class 1:  19, Class 2:  20, Class 3:  82, Class 4:  72, Class 5:  18
+tree:  200
+Error rate: 8.40% ( 210/2500)
+ - Class 1:  19, Class 2:  14, Class 3:  89, Class 4:  72, Class 5:  16
+tree:  200
+Error rate: 6.68% ( 167/2500)
+ - Class 1:  17, Class 2:  11, Class 3:  82, Class 4:  43, Class 5:  14
+tree:  200
+Error rate: 7.00% ( 175/2500)
+ - Class 1:  23, Class 2:  12, Class 3:  67, Class 4:  42, Class 5:  31
+tree:  200
+Error rate: 8.04% ( 201/2500)
+ - Class 1:  22, Class 2:  16, Class 3:  87, Class 4:  52, Class 5:  24
+tree:  200
+Error rate: 9.48% ( 237/2500)
+ - Class 1:  29, Class 2:  17, Class 3: 102, Class 4:  64, Class 5:  25
+tree:  200
+Error rate: 7.00% ( 175/2500)
+ - Class 1:  17, Class 2:  15, Class 3:  77, Class 4:  43, Class 5:  23
+tree:  200
+Error rate: 8.52% ( 213/2500)
+ - Class 1:  22, Class 2:  17, Class 3:  95, Class 4:  66, Class 5:  13
+tree:  200
+Error rate: 7.32% ( 183/2500)
+ - Class 1:  21, Class 2:  12, Class 3:  80, Class 4:  49, Class 5:  21
+tree:  200
+Error rate: 8.20% ( 205/2500)
+ - Class 1:  29, Class 2:  18, Class 3: 100, Class 4:  47, Class 5:  11
+tree:  200
+Error rate: 8.28% ( 207/2500)
+ - Class 1:  14, Class 2:  13, Class 3: 100, Class 4:  66, Class 5:  14
+tree:  300
+Error rate: 9.04% ( 226/2500)
+ - Class 1:  15, Class 2:  12, Class 3: 115, Class 4:  53, Class 5:  31
+tree:  300
+Error rate: 8.76% ( 219/2500)
+ - Class 1:  13, Class 2:  20, Class 3:  81, Class 4:  77, Class 5:  28
+tree:  300
+Error rate: 7.24% ( 181/2500)
+ - Class 1:  24, Class 2:  10, Class 3:  81, Class 4:  57, Class 5:   9
+tree:  300
+Error rate: 9.88% ( 247/2500)
+ - Class 1:  19, Class 2:  15, Class 3: 127, Class 4:  66, Class 5:  20
+tree:  300
+Error rate: 9.00% ( 225/2500)
+ - Class 1:  20, Class 2:  19, Class 3:  99, Class 4:  62, Class 5:  25
+tree:  300
+Error rate: 8.96% ( 224/2500)
+ - Class 1:  18, Class 2:  14, Class 3: 103, Class 4:  71, Class 5:  18
+tree:  300
+Error rate: 7.80% ( 195/2500)
+ - Class 1:  24, Class 2:  19, Class 3:  85, Class 4:  49, Class 5:  18
+tree:  300
+Error rate: 8.36% ( 209/2500)
+ - Class 1:  21, Class 2:  13, Class 3:  84, Class 4:  56, Class 5:  35
+tree:  300
+Error rate: 9.36% ( 234/2500)
+ - Class 1:  14, Class 2:  13, Class 3: 113, Class 4:  63, Class 5:  31
+tree:  300
+Error rate: 9.68% ( 242/2500)
+ - Class 1:  23, Class 2:  16, Class 3: 130, Class 4:  58, Class 5:  15
+tree:  400
+Error rate: 8.44% ( 211/2500)
+ - Class 1:  38, Class 2:  10, Class 3:  73, Class 4:  61, Class 5:  29
+tree:  400
+Error rate: 8.00% ( 200/2500)
+ - Class 1:  29, Class 2:  16, Class 3:  80, Class 4:  64, Class 5:  11
+tree:  400
+Error rate: 8.92% ( 223/2500)
+ - Class 1:  21, Class 2:  11, Class 3:  99, Class 4:  71, Class 5:  21
+tree:  400
+Error rate: 9.48% ( 237/2500)
+ - Class 1:  29, Class 2:  17, Class 3: 111, Class 4:  66, Class 5:  14
+tree:  400
+Error rate: 8.64% ( 216/2500)
+ - Class 1:  21, Class 2:  13, Class 3:  93, Class 4:  64, Class 5:  25
+tree:  400
+Error rate: 8.76% ( 219/2500)
+ - Class 1:  20, Class 2:  17, Class 3: 105, Class 4:  54, Class 5:  23
+tree:  400
+Error rate: 7.92% ( 198/2500)
+ - Class 1:  12, Class 2:  15, Class 3:  93, Class 4:  60, Class 5:  18
+tree:  400
+Error rate: 7.32% ( 183/2500)
+ - Class 1:  14, Class 2:  13, Class 3:  90, Class 4:  49, Class 5:  17
+tree:  400
+Error rate: 9.12% ( 228/2500)
+ - Class 1:  19, Class 2:  14, Class 3: 128, Class 4:  43, Class 5:  24
+tree:  400
+Error rate: 7.08% ( 177/2500)
+ - Class 1:  16, Class 2:   8, Class 3:  73, Class 4:  51, Class 5:  29
+tree:  500
+Error rate: 8.08% ( 202/2500)
+ - Class 1:  16, Class 2:  13, Class 3:  85, Class 4:  62, Class 5:  26
+tree:  500
+Error rate: 7.80% ( 195/2500)
+ - Class 1:  15, Class 2:  14, Class 3:  81, Class 4:  69, Class 5:  16
+tree:  500
+Error rate: 8.72% ( 218/2500)
+ - Class 1:  32, Class 2:  13, Class 3:  84, Class 4:  58, Class 5:  31
+tree:  500
+Error rate: 7.96% ( 199/2500)
+ - Class 1:  22, Class 2:  14, Class 3:  83, Class 4:  53, Class 5:  27
+tree:  500
+Error rate: 7.68% ( 192/2500)
+ - Class 1:   9, Class 2:  16, Class 3:  80, Class 4:  63, Class 5:  24
+tree:  500
+Error rate: 8.00% ( 200/2500)
+ - Class 1:  13, Class 2:  18, Class 3:  84, Class 4:  71, Class 5:  14
+tree:  500
+Error rate: 7.04% ( 176/2500)
+ - Class 1:  12, Class 2:  15, Class 3:  82, Class 4:  54, Class 5:  13
+tree:  500
+Error rate: 7.68% ( 192/2500)
+ - Class 1:  18, Class 2:  12, Class 3:  77, Class 4:  59, Class 5:  26
+tree:  500
+Error rate: 7.64% ( 191/2500)
+ - Class 1:  26, Class 2:   8, Class 3:  66, Class 4:  59, Class 5:  32
+tree:  500
+Error rate: 7.32% ( 183/2500)
+ - Class 1:   9, Class 2:  16, Class 3:  77, Class 4:  48, Class 5:  33
+tree:  600
+Error rate: 9.60% ( 240/2500)
+ - Class 1:  31, Class 2:  19, Class 3: 109, Class 4:  62, Class 5:  19
+tree:  600
+Error rate: 7.44% ( 186/2500)
+ - Class 1:  24, Class 2:  17, Class 3:  74, Class 4:  54, Class 5:  17
+tree:  600
+Error rate: 7.08% ( 177/2500)
+ - Class 1:  22, Class 2:  14, Class 3:  73, Class 4:  49, Class 5:  19
+tree:  600
+Error rate: 7.32% ( 183/2500)
+ - Class 1:  13, Class 2:   9, Class 3:  71, Class 4:  62, Class 5:  28
+tree:  600
+Error rate: 7.68% ( 192/2500)
+ - Class 1:  31, Class 2:  15, Class 3:  73, Class 4:  60, Class 5:  13
+tree:  600
+Error rate: 7.32% ( 183/2500)
+ - Class 1:   9, Class 2:  16, Class 3:  84, Class 4:  55, Class 5:  19
+tree:  600
+Error rate: 8.84% ( 221/2500)
+ - Class 1:  17, Class 2:  18, Class 3:  90, Class 4:  72, Class 5:  24
+tree:  600
+Error rate: 7.56% ( 189/2500)
+ - Class 1:  12, Class 2:  11, Class 3: 122, Class 4:  35, Class 5:   9
+tree:  600
+Error rate: 8.20% ( 205/2500)
+ - Class 1:  19, Class 2:  14, Class 3:  90, Class 4:  52, Class 5:  30
+tree:  600
+Error rate: 8.52% ( 213/2500)
+ - Class 1:  25, Class 2:  16, Class 3:  93, Class 4:  52, Class 5:  27
+tree:  700
+Error rate: 7.68% ( 192/2500)
+ - Class 1:  23, Class 2:  18, Class 3:  67, Class 4:  55, Class 5:  29
+tree:  700
+Error rate: 8.08% ( 202/2500)
+ - Class 1:  30, Class 2:  18, Class 3:  74, Class 4:  54, Class 5:  26
+tree:  700
+Error rate: 7.72% ( 193/2500)
+ - Class 1:  15, Class 2:  17, Class 3:  90, Class 4:  46, Class 5:  25
+tree:  700
+Error rate: 7.72% ( 193/2500)
+ - Class 1:  19, Class 2:  16, Class 3:  85, Class 4:  56, Class 5:  17
+tree:  700
+Error rate: 8.84% ( 221/2500)
+ - Class 1:  26, Class 2:  16, Class 3: 101, Class 4:  56, Class 5:  22
+tree:  700
+Error rate: 9.08% ( 227/2500)
+ - Class 1:  24, Class 2:  12, Class 3:  84, Class 4:  56, Class 5:  51
+tree:  700
+Error rate: 7.80% ( 195/2500)
+ - Class 1:  18, Class 2:   9, Class 3:  82, Class 4:  63, Class 5:  23
+tree:  700
+Error rate: 7.56% ( 189/2500)
+ - Class 1:  18, Class 2:   9, Class 3:  89, Class 4:  48, Class 5:  25
+tree:  700
+Error rate: 8.32% ( 208/2500)
+ - Class 1:  21, Class 2:  15, Class 3: 105, Class 4:  55, Class 5:  12
+tree:  700
+Error rate: 7.00% ( 175/2500)
+ - Class 1:  20, Class 2:  11, Class 3:  77, Class 4:  48, Class 5:  19
+tree:  800
+Error rate: 8.36% ( 209/2500)
+ - Class 1:  11, Class 2:  11, Class 3:  99, Class 4:  74, Class 5:  14
+tree:  800
+Error rate: 7.68% ( 192/2500)
+ - Class 1:  19, Class 2:  13, Class 3:  82, Class 4:  52, Class 5:  26
+tree:  800
+Error rate: 8.36% ( 209/2500)
+ - Class 1:  13, Class 2:  13, Class 3: 102, Class 4:  46, Class 5:  35
+tree:  800
+Error rate: 7.84% ( 196/2500)
+ - Class 1:  21, Class 2:  11, Class 3:  76, Class 4:  74, Class 5:  14
+tree:  800
+Error rate: 8.72% ( 218/2500)
+ - Class 1:  20, Class 2:  15, Class 3:  95, Class 4:  76, Class 5:  12
+tree:  800
+Error rate: 8.48% ( 212/2500)
+ - Class 1:  16, Class 2:  15, Class 3: 101, Class 4:  50, Class 5:  30
+tree:  800
+Error rate: 7.76% ( 194/2500)
+ - Class 1:  22, Class 2:  16, Class 3:  77, Class 4:  57, Class 5:  22
+tree:  800
+Error rate: 7.64% ( 191/2500)
+ - Class 1:  19, Class 2:  15, Class 3:  87, Class 4:  46, Class 5:  24
+tree:  800
+Error rate: 7.48% ( 187/2500)
+ - Class 1:  10, Class 2:  12, Class 3:  79, Class 4:  69, Class 5:  17
+tree:  800
+Error rate: 8.20% ( 205/2500)
+ - Class 1:  18, Class 2:  12, Class 3:  90, Class 4:  67, Class 5:  18
+tree:  900
+Error rate: 7.84% ( 196/2500)
+ - Class 1:  11, Class 2:  14, Class 3:  78, Class 4:  57, Class 5:  36
+tree:  900
+Error rate: 6.88% ( 172/2500)
+ - Class 1:  15, Class 2:   9, Class 3:  82, Class 4:  46, Class 5:  20
+tree:  900
+Error rate: 7.12% ( 178/2500)
+ - Class 1:  20, Class 2:   9, Class 3:  85, Class 4:  46, Class 5:  18
+tree:  900
+Error rate: 8.20% ( 205/2500)
+ - Class 1:  11, Class 2:  13, Class 3:  88, Class 4:  71, Class 5:  22
+tree:  900
+Error rate: 7.96% ( 199/2500)
+ - Class 1:  19, Class 2:  12, Class 3:  78, Class 4:  72, Class 5:  18
+tree:  900
+Error rate: 9.84% ( 246/2500)
+ - Class 1:  21, Class 2:  16, Class 3:  96, Class 4:  71, Class 5:  42
+tree:  900
+Error rate: 8.36% ( 209/2500)
+ - Class 1:  17, Class 2:  14, Class 3:  87, Class 4:  68, Class 5:  23
+tree:  900
+Error rate: 8.12% ( 203/2500)
+ - Class 1:  13, Class 2:  15, Class 3:  98, Class 4:  46, Class 5:  31
+tree:  900
+Error rate: 7.28% ( 182/2500)
+ - Class 1:  24, Class 2:  16, Class 3:  90, Class 4:  40, Class 5:  12
+tree:  900
+Error rate: 7.32% ( 183/2500)
+ - Class 1:  15, Class 2:  14, Class 3:  74, Class 4:  58, Class 5:  22
+tree: 1000
+Error rate: 8.08% ( 202/2500)
+ - Class 1:  20, Class 2:  15, Class 3:  91, Class 4:  56, Class 5:  20
+tree: 1000
+Error rate: 7.16% ( 179/2500)
+ - Class 1:  11, Class 2:  12, Class 3:  85, Class 4:  55, Class 5:  16
+tree: 1000
+Error rate: 8.88% ( 222/2500)
+ - Class 1:  19, Class 2:  17, Class 3:  90, Class 4:  74, Class 5:  22
+tree: 1000
+Error rate: 7.72% ( 193/2500)
+ - Class 1:  25, Class 2:  17, Class 3:  67, Class 4:  66, Class 5:  18
+tree: 1000
+Error rate: 7.92% ( 198/2500)
+ - Class 1:  12, Class 2:  16, Class 3:  60, Class 4:  73, Class 5:  37
+tree: 1000
+Error rate: 7.92% ( 198/2500)
+ - Class 1:  22, Class 2:  16, Class 3:  99, Class 4:  46, Class 5:  15
+tree: 1000
+Error rate: 8.12% ( 203/2500)
+ - Class 1:  21, Class 2:  14, Class 3: 104, Class 4:  52, Class 5:  12
+tree: 1000
+Error rate: 7.20% ( 180/2500)
+ - Class 1:  22, Class 2:  14, Class 3:  86, Class 4:  42, Class 5:  16
+tree: 1000
+Error rate: 8.24% ( 206/2500)
+ - Class 1:  27, Class 2:  15, Class 3:  85, Class 4:  62, Class 5:  17
+tree: 1000
+Error rate: 8.44% ( 211/2500)
+ - Class 1:  20, Class 2:  13, Class 3: 100, Class 4:  58, Class 5:  20
+tree: 1100
+Error rate: 8.08% ( 202/2500)
+ - Class 1:  13, Class 2:  15, Class 3:  96, Class 4:  56, Class 5:  22
+tree: 1100
+Error rate: 7.12% ( 178/2500)
+ - Class 1:  21, Class 2:  13, Class 3:  73, Class 4:  53, Class 5:  18
+tree: 1100
+Error rate: 7.40% ( 185/2500)
+ - Class 1:  19, Class 2:  13, Class 3:  65, Class 4:  69, Class 5:  19
+tree: 1100
+Error rate: 8.00% ( 200/2500)
+ - Class 1:  19, Class 2:  15, Class 3:  77, Class 4:  53, Class 5:  36
+tree: 1100
+Error rate: 8.20% ( 205/2500)
+ - Class 1:  20, Class 2:  14, Class 3:  90, Class 4:  50, Class 5:  31
+tree: 1100
+Error rate: 7.72% ( 193/2500)
+ - Class 1:  24, Class 2:  14, Class 3:  99, Class 4:  36, Class 5:  20
+tree: 1100
+Error rate: 7.96% ( 199/2500)
+ - Class 1:  15, Class 2:  12, Class 3:  89, Class 4:  62, Class 5:  21
+tree: 1100
+Error rate: 7.52% ( 188/2500)
+ - Class 1:  18, Class 2:  16, Class 3:  85, Class 4:  46, Class 5:  23
+tree: 1100
+Error rate: 7.32% ( 183/2500)
+ - Class 1:  18, Class 2:  13, Class 3:  88, Class 4:  44, Class 5:  20
+tree: 1100
+Error rate: 8.12% ( 203/2500)
+ - Class 1:  25, Class 2:  20, Class 3:  85, Class 4:  50, Class 5:  23
+tree: 1200
+Error rate: 8.36% ( 209/2500)
+ - Class 1:  15, Class 2:  12, Class 3:  79, Class 4:  66, Class 5:  37
+tree: 1200
+Error rate: 8.28% ( 207/2500)
+ - Class 1:  29, Class 2:  12, Class 3: 109, Class 4:  45, Class 5:  12
+tree: 1200
+Error rate: 7.00% ( 175/2500)
+ - Class 1:  22, Class 2:  16, Class 3:  71, Class 4:  51, Class 5:  15
+tree: 1200
+Error rate: 8.56% ( 214/2500)
+ - Class 1:  21, Class 2:  13, Class 3:  98, Class 4:  65, Class 5:  17
+tree: 1200
+Error rate: 9.28% ( 232/2500)
+ - Class 1:  26, Class 2:  12, Class 3:  92, Class 4:  81, Class 5:  21
+tree: 1200
+Error rate: 8.00% ( 200/2500)
+ - Class 1:  18, Class 2:  15, Class 3:  91, Class 4:  64, Class 5:  12
+tree: 1200
+Error rate: 8.36% ( 209/2500)
+ - Class 1:  15, Class 2:  13, Class 3:  90, Class 4:  60, Class 5:  31
+tree: 1200
+Error rate: 7.24% ( 181/2500)
+ - Class 1:  13, Class 2:   6, Class 3:  92, Class 4:  57, Class 5:  13
+tree: 1200
+Error rate: 7.92% ( 198/2500)
+ - Class 1:  20, Class 2:  16, Class 3:  77, Class 4:  65, Class 5:  20
+tree: 1200
+Error rate: 8.24% ( 206/2500)
+ - Class 1:  16, Class 2:  13, Class 3:  63, Class 4:  66, Class 5:  48
+tree: 1300
+Error rate: 7.36% ( 184/2500)
+ - Class 1:  11, Class 2:  15, Class 3:  88, Class 4:  53, Class 5:  17
+tree: 1300
+Error rate: 8.44% ( 211/2500)
+ - Class 1:  17, Class 2:  16, Class 3:  88, Class 4:  49, Class 5:  41
+tree: 1300
+Error rate: 7.64% ( 191/2500)
+ - Class 1:  26, Class 2:  13, Class 3:  83, Class 4:  54, Class 5:  15
+tree: 1300
+Error rate: 8.52% ( 213/2500)
+ - Class 1:  16, Class 2:  15, Class 3:  95, Class 4:  54, Class 5:  33
+tree: 1300
+Error rate: 9.92% ( 248/2500)
+ - Class 1:  16, Class 2:   3, Class 3: 130, Class 4:  79, Class 5:  20
+tree: 1300
+Error rate: 7.36% ( 184/2500)
+ - Class 1:  16, Class 2:  12, Class 3:  80, Class 4:  49, Class 5:  27
+tree: 1300
+Error rate: 8.16% ( 204/2500)
+ - Class 1:  31, Class 2:  14, Class 3:  91, Class 4:  51, Class 5:  17
+tree: 1300
+Error rate: 8.80% ( 220/2500)
+ - Class 1:  17, Class 2:  18, Class 3:  93, Class 4:  63, Class 5:  29
+tree: 1300
+Error rate: 7.92% ( 198/2500)
+ - Class 1:  18, Class 2:  13, Class 3:  90, Class 4:  62, Class 5:  15
+tree: 1300
+Error rate: 8.00% ( 200/2500)
+ - Class 1:  21, Class 2:  14, Class 3:  84, Class 4:  56, Class 5:  25
+tree: 1400
+Error rate: 8.44% ( 211/2500)
+ - Class 1:  23, Class 2:  10, Class 3:  85, Class 4:  68, Class 5:  25
+tree: 1400
+Error rate: 8.12% ( 203/2500)
+ - Class 1:  27, Class 2:  14, Class 3:  77, Class 4:  61, Class 5:  24
+tree: 1400
+Error rate: 9.24% ( 231/2500)
+ - Class 1:  17, Class 2:  15, Class 3:  86, Class 4:  67, Class 5:  46
+tree: 1400
+Error rate: 8.52% ( 213/2500)
+ - Class 1:  27, Class 2:  13, Class 3:  93, Class 4:  50, Class 5:  30
+tree: 1400
+Error rate: 7.00% ( 175/2500)
+ - Class 1:   9, Class 2:  16, Class 3:  75, Class 4:  43, Class 5:  32
+tree: 1400
+Error rate: 7.60% ( 190/2500)
+ - Class 1:  24, Class 2:  12, Class 3:  95, Class 4:  45, Class 5:  14
+tree: 1400
+Error rate: 7.24% ( 181/2500)
+ - Class 1:  22, Class 2:  14, Class 3:  78, Class 4:  55, Class 5:  12
+tree: 1400
+Error rate: 8.00% ( 200/2500)
+ - Class 1:  18, Class 2:  17, Class 3:  84, Class 4:  61, Class 5:  20
+tree: 1400
+Error rate: 9.00% ( 225/2500)
+ - Class 1:  16, Class 2:  16, Class 3: 109, Class 4:  62, Class 5:  22
+tree: 1400
+Error rate: 8.68% ( 217/2500)
+ - Class 1:  21, Class 2:  16, Class 3: 100, Class 4:  68, Class 5:  12
+tree: 1500
+Error rate: 6.68% ( 167/2500)
+ - Class 1:  15, Class 2:  11, Class 3:  71, Class 4:  52, Class 5:  18
+tree: 1500
+Error rate: 7.72% ( 193/2500)
+ - Class 1:  12, Class 2:  15, Class 3:  85, Class 4:  57, Class 5:  24
+tree: 1500
+Error rate: 7.00% ( 175/2500)
+ - Class 1:  22, Class 2:  12, Class 3:  71, Class 4:  46, Class 5:  24
+tree: 1500
+Error rate: 7.76% ( 194/2500)
+ - Class 1:  13, Class 2:  14, Class 3:  95, Class 4:  49, Class 5:  23
+tree: 1500
+Error rate: 7.52% ( 188/2500)
+ - Class 1:  23, Class 2:  10, Class 3:  79, Class 4:  50, Class 5:  26
+tree: 1500
+Error rate: 8.56% ( 214/2500)
+ - Class 1:  17, Class 2:  15, Class 3: 123, Class 4:  40, Class 5:  19
+tree: 1500
+Error rate: 8.00% ( 200/2500)
+ - Class 1:  20, Class 2:  14, Class 3:  88, Class 4:  51, Class 5:  27
+tree: 1500
+Error rate: 7.80% ( 195/2500)
+ - Class 1:  15, Class 2:  15, Class 3:  77, Class 4:  54, Class 5:  34
+tree: 1500
+Error rate: 7.72% ( 193/2500)
+ - Class 1:  18, Class 2:  16, Class 3:  90, Class 4:  42, Class 5:  27
+tree: 1500
+Error rate: 8.40% ( 210/2500)
+ - Class 1:  16, Class 2:  13, Class 3:  81, Class 4:  67, Class 5:  33
+tree: 1600
+Error rate: 7.72% ( 193/2500)
+ - Class 1:  14, Class 2:  20, Class 3:  85, Class 4:  57, Class 5:  17
+tree: 1600
+Error rate: 7.64% ( 191/2500)
+ - Class 1:  20, Class 2:  18, Class 3:  91, Class 4:  48, Class 5:  14
+tree: 1600
+Error rate: 7.92% ( 198/2500)
+ - Class 1:  18, Class 2:  12, Class 3:  73, Class 4:  58, Class 5:  37
+tree: 1600
+Error rate: 7.92% ( 198/2500)
+ - Class 1:  21, Class 2:  14, Class 3:  75, Class 4:  52, Class 5:  36
+tree: 1600
+Error rate: 7.48% ( 187/2500)
+ - Class 1:  14, Class 2:  14, Class 3:  81, Class 4:  59, Class 5:  19
+tree: 1600
+Error rate: 8.04% ( 201/2500)
+ - Class 1:  18, Class 2:  15, Class 3:  95, Class 4:  60, Class 5:  13
+tree: 1600
+Error rate: 8.76% ( 219/2500)
+ - Class 1:  25, Class 2:  16, Class 3: 101, Class 4:  66, Class 5:  11
+tree: 1600
+Error rate: 8.68% ( 217/2500)
+ - Class 1:  20, Class 2:  13, Class 3: 104, Class 4:  50, Class 5:  30
+tree: 1600
+Error rate: 8.64% ( 216/2500)
+ - Class 1:  13, Class 2:  15, Class 3:  98, Class 4:  62, Class 5:  28
+tree: 1600
+Error rate: 7.04% ( 176/2500)
+ - Class 1:  20, Class 2:  11, Class 3:  80, Class 4:  52, Class 5:  13
+tree: 1700
+Error rate: 8.60% ( 215/2500)
+ - Class 1:  19, Class 2:  11, Class 3:  92, Class 4:  64, Class 5:  29
+tree: 1700
+Error rate: 7.80% ( 195/2500)
+ - Class 1:  20, Class 2:  12, Class 3:  89, Class 4:  57, Class 5:  17
+tree: 1700
+Error rate: 8.36% ( 209/2500)
+ - Class 1:  20, Class 2:  13, Class 3:  89, Class 4:  57, Class 5:  30
+tree: 1700
+Error rate: 7.92% ( 198/2500)
+ - Class 1:  17, Class 2:  12, Class 3:  82, Class 4:  67, Class 5:  20
+tree: 1700
+Error rate: 6.44% ( 161/2500)
+ - Class 1:  19, Class 2:   9, Class 3:  69, Class 4:  49, Class 5:  15
+tree: 1700
+Error rate: 8.24% ( 206/2500)
+ - Class 1:  20, Class 2:  13, Class 3:  87, Class 4:  69, Class 5:  17
+tree: 1700
+Error rate: 7.36% ( 184/2500)
+ - Class 1:  15, Class 2:  14, Class 3:  78, Class 4:  57, Class 5:  20
+tree: 1700
+Error rate: 7.40% ( 185/2500)
+ - Class 1:  21, Class 2:  14, Class 3:  96, Class 4:  40, Class 5:  14
+tree: 1700
+Error rate: 9.16% ( 229/2500)
+ - Class 1:  18, Class 2:   7, Class 3: 108, Class 4:  62, Class 5:  34
+tree: 1700
+Error rate: 8.04% ( 201/2500)
+ - Class 1:  20, Class 2:  15, Class 3:  90, Class 4:  57, Class 5:  19
+tree: 1800
+Error rate: 8.36% ( 209/2500)
+ - Class 1:  26, Class 2:  18, Class 3: 101, Class 4:  48, Class 5:  16
+tree: 1800
+Error rate: 7.24% ( 181/2500)
+ - Class 1:  14, Class 2:  13, Class 3:  71, Class 4:  53, Class 5:  30
+tree: 1800
+Error rate: 7.72% ( 193/2500)
+ - Class 1:  16, Class 2:  13, Class 3:  83, Class 4:  60, Class 5:  21
+tree: 1800
+Error rate: 9.00% ( 225/2500)
+ - Class 1:  20, Class 2:  11, Class 3: 104, Class 4:  66, Class 5:  24
+tree: 1800
+Error rate: 8.80% ( 220/2500)
+ - Class 1:  25, Class 2:  17, Class 3:  85, Class 4:  66, Class 5:  27
+tree: 1800
+Error rate: 8.36% ( 209/2500)
+ - Class 1:  13, Class 2:  13, Class 3:  88, Class 4:  65, Class 5:  30
+tree: 1800
+Error rate: 8.28% ( 207/2500)
+ - Class 1:  16, Class 2:  12, Class 3: 112, Class 4:  42, Class 5:  25
+tree: 1800
+Error rate: 7.76% ( 194/2500)
+ - Class 1:  22, Class 2:  10, Class 3:  86, Class 4:  58, Class 5:  18
+tree: 1800
+Error rate: 7.92% ( 198/2500)
+ - Class 1:  21, Class 2:  16, Class 3:  95, Class 4:  46, Class 5:  20
+tree: 1800
+Error rate: 7.96% ( 199/2500)
+ - Class 1:  28, Class 2:  15, Class 3:  81, Class 4:  58, Class 5:  17
+tree: 1900
+Error rate: 7.76% ( 194/2500)
+ - Class 1:  12, Class 2:  14, Class 3:  96, Class 4:  51, Class 5:  21
+tree: 1900
+Error rate: 8.44% ( 211/2500)
+ - Class 1:  20, Class 2:   6, Class 3: 108, Class 4:  67, Class 5:  10
+tree: 1900
+Error rate: 8.24% ( 206/2500)
+ - Class 1:  18, Class 2:  11, Class 3:  95, Class 4:  61, Class 5:  21
+tree: 1900
+Error rate: 8.28% ( 207/2500)
+ - Class 1:  18, Class 2:  13, Class 3: 102, Class 4:  59, Class 5:  15
+tree: 1900
+Error rate: 8.40% ( 210/2500)
+ - Class 1:  23, Class 2:  14, Class 3:  92, Class 4:  59, Class 5:  22
+tree: 1900
+Error rate: 9.56% ( 239/2500)
+ - Class 1:  39, Class 2:  17, Class 3:  83, Class 4:  72, Class 5:  28
+tree: 1900
+Error rate: 7.72% ( 193/2500)
+ - Class 1:  11, Class 2:  13, Class 3:  72, Class 4:  70, Class 5:  27
+tree: 1900
+Error rate: 7.24% ( 181/2500)
+ - Class 1:   8, Class 2:  12, Class 3:  75, Class 4:  65, Class 5:  21
+tree: 1900
+Error rate: 7.56% ( 189/2500)
+ - Class 1:  13, Class 2:  15, Class 3:  78, Class 4:  64, Class 5:  19
+tree: 1900
+Error rate: 6.16% ( 154/2500)
+ - Class 1:   7, Class 2:   6, Class 3:  70, Class 4:  60, Class 5:  11
+tree: 2000
+Error rate: 8.28% ( 207/2500)
+ - Class 1:  24, Class 2:  12, Class 3: 102, Class 4:  51, Class 5:  18
+tree: 2000
+Error rate: 8.88% ( 222/2500)
+ - Class 1:  22, Class 2:  17, Class 3: 100, Class 4:  56, Class 5:  27
+tree: 2000
+Error rate: 6.68% ( 167/2500)
+ - Class 1:  15, Class 2:  13, Class 3:  85, Class 4:  40, Class 5:  14
+tree: 2000
+Error rate: 8.32% ( 208/2500)
+ - Class 1:  28, Class 2:  16, Class 3:  86, Class 4:  60, Class 5:  18
+tree: 2000
+Error rate: 8.16% ( 204/2500)
+ - Class 1:  18, Class 2:  13, Class 3:  96, Class 4:  50, Class 5:  27
+tree: 2000
+Error rate: 7.60% ( 190/2500)
+ - Class 1:  18, Class 2:  15, Class 3:  89, Class 4:  52, Class 5:  16
+tree: 2000
+Error rate: 8.48% ( 212/2500)
+ - Class 1:  18, Class 2:  15, Class 3:  93, Class 4:  51, Class 5:  35
+tree: 2000
+Error rate: 7.04% ( 176/2500)
+ - Class 1:  15, Class 2:  14, Class 3:  79, Class 4:  45, Class 5:  23
+tree: 2000
+Error rate: 7.64% ( 191/2500)
+ - Class 1:  19, Class 2:  14, Class 3:  72, Class 4:  55, Class 5:  31
+tree: 2000
+Error rate: 7.24% ( 181/2500)
+ - Class 1:  14, Class 2:  14, Class 3:  89, Class 4:  50, Class 5:  14
+tree: 2100
+Error rate: 8.04% ( 201/2500)
+ - Class 1:  16, Class 2:  13, Class 3: 106, Class 4:  41, Class 5:  25
+tree: 2100
+Error rate: 7.16% ( 179/2500)
+ - Class 1:  16, Class 2:  16, Class 3:  67, Class 4:  57, Class 5:  23
+tree: 2100
+Error rate: 7.64% ( 191/2500)
+ - Class 1:  19, Class 2:  17, Class 3:  84, Class 4:  50, Class 5:  21
+tree: 2100
+Error rate: 7.64% ( 191/2500)
+ - Class 1:  15, Class 2:  14, Class 3:  89, Class 4:  45, Class 5:  28
+tree: 2100
+Error rate: 8.92% ( 223/2500)
+ - Class 1:  23, Class 2:  17, Class 3:  89, Class 4:  77, Class 5:  17
+tree: 2100
+Error rate: 8.16% ( 204/2500)
+ - Class 1:  20, Class 2:  13, Class 3:  84, Class 4:  56, Class 5:  31
+tree: 2100
+Error rate: 8.56% ( 214/2500)
+ - Class 1:  21, Class 2:  16, Class 3:  86, Class 4:  63, Class 5:  28
+tree: 2100
+Error rate: 7.60% ( 190/2500)
+ - Class 1:  15, Class 2:  16, Class 3:  78, Class 4:  58, Class 5:  23
+tree: 2100
+Error rate: 8.68% ( 217/2500)
+ - Class 1:  18, Class 2:  16, Class 3: 101, Class 4:  63, Class 5:  19
+tree: 2100
+Error rate: 7.28% ( 182/2500)
+ - Class 1:  20, Class 2:  16, Class 3:  79, Class 4:  43, Class 5:  24
+tree: 2200
+Error rate: 7.76% ( 194/2500)
+ - Class 1:  19, Class 2:  17, Class 3:  73, Class 4:  63, Class 5:  22
+tree: 2200
+Error rate: 7.40% ( 185/2500)
+ - Class 1:  14, Class 2:  15, Class 3:  83, Class 4:  56, Class 5:  17
+tree: 2200
+Error rate: 7.68% ( 192/2500)
+ - Class 1:  18, Class 2:  16, Class 3:  86, Class 4:  55, Class 5:  17
+tree: 2200
+Error rate: 7.80% ( 195/2500)
+ - Class 1:  14, Class 2:   9, Class 3:  83, Class 4:  61, Class 5:  28
+tree: 2200
+Error rate: 9.72% ( 243/2500)
+ - Class 1:  18, Class 2:  17, Class 3: 121, Class 4:  53, Class 5:  34
+tree: 2200
+Error rate: 8.92% ( 223/2500)
+ - Class 1:  22, Class 2:  11, Class 3: 113, Class 4:  65, Class 5:  12
+tree: 2200
+Error rate: 7.32% ( 183/2500)
+ - Class 1:  14, Class 2:  12, Class 3:  87, Class 4:  47, Class 5:  23
+tree: 2200
+Error rate: 7.56% ( 189/2500)
+ - Class 1:  13, Class 2:   9, Class 3:  84, Class 4:  65, Class 5:  18
+tree: 2200
+Error rate: 7.56% ( 189/2500)
+ - Class 1:  20, Class 2:  15, Class 3:  75, Class 4:  53, Class 5:  26
+tree: 2200
+Error rate: 7.20% ( 180/2500)
+ - Class 1:   8, Class 2:  14, Class 3:  71, Class 4:  72, Class 5:  15
+tree: 2300
+Error rate: 7.48% ( 187/2500)
+ - Class 1:  16, Class 2:  13, Class 3:  67, Class 4:  63, Class 5:  28
+tree: 2300
+Error rate: 7.32% ( 183/2500)
+ - Class 1:  24, Class 2:  17, Class 3:  60, Class 4:  58, Class 5:  24
+tree: 2300
+Error rate: 7.96% ( 199/2500)
+ - Class 1:  21, Class 2:  17, Class 3:  95, Class 4:  52, Class 5:  14
+tree: 2300
+Error rate: 7.72% ( 193/2500)
+ - Class 1:   7, Class 2:  10, Class 3:  68, Class 4:  55, Class 5:  53
+tree: 2300
+Error rate: 8.40% ( 210/2500)
+ - Class 1:  19, Class 2:  15, Class 3:  95, Class 4:  67, Class 5:  14
+tree: 2300
+Error rate: 8.76% ( 219/2500)
+ - Class 1:  19, Class 2:  12, Class 3:  97, Class 4:  65, Class 5:  26
+tree: 2300
+Error rate: 8.00% ( 200/2500)
+ - Class 1:  21, Class 2:  18, Class 3:  90, Class 4:  59, Class 5:  12
+tree: 2300
+Error rate: 7.32% ( 183/2500)
+ - Class 1:  15, Class 2:  16, Class 3:  88, Class 4:  45, Class 5:  19
+tree: 2300
+Error rate: 7.48% ( 187/2500)
+ - Class 1:  24, Class 2:  11, Class 3:  78, Class 4:  54, Class 5:  20
+tree: 2300
+Error rate: 6.60% ( 165/2500)
+ - Class 1:  21, Class 2:  14, Class 3:  65, Class 4:  53, Class 5:  12
+tree: 2400
+Error rate: 7.64% ( 191/2500)
+ - Class 1:  25, Class 2:  13, Class 3:  79, Class 4:  46, Class 5:  28
+tree: 2400
+Error rate: 8.56% ( 214/2500)
+ - Class 1:  17, Class 2:  12, Class 3: 101, Class 4:  44, Class 5:  40
+tree: 2400
+Error rate: 7.20% ( 180/2500)
+ - Class 1:  10, Class 2:  12, Class 3:  59, Class 4:  62, Class 5:  37
+tree: 2400
+Error rate: 8.12% ( 203/2500)
+ - Class 1:  16, Class 2:  14, Class 3:  97, Class 4:  59, Class 5:  17
+tree: 2400
+Error rate: 7.92% ( 198/2500)
+ - Class 1:  22, Class 2:  17, Class 3:  87, Class 4:  58, Class 5:  14
+tree: 2400
+Error rate: 9.28% ( 232/2500)
+ - Class 1:  33, Class 2:  14, Class 3: 102, Class 4:  68, Class 5:  15
+tree: 2400
+Error rate: 8.00% ( 200/2500)
+ - Class 1:  13, Class 2:  13, Class 3:  82, Class 4:  53, Class 5:  39
+tree: 2400
+Error rate: 7.40% ( 185/2500)
+ - Class 1:  27, Class 2:  14, Class 3:  74, Class 4:  54, Class 5:  16
+tree: 2400
+Error rate: 8.20% ( 205/2500)
+ - Class 1:  16, Class 2:  19, Class 3:  80, Class 4:  59, Class 5:  31
+tree: 2400
+Error rate: 7.40% ( 185/2500)
+ - Class 1:  16, Class 2:  17, Class 3:  78, Class 4:  53, Class 5:  21
+tree: 2500
+Error rate: 8.04% ( 201/2500)
+ - Class 1:  10, Class 2:   5, Class 3: 106, Class 4:  61, Class 5:  19
+tree: 2500
+Error rate: 7.84% ( 196/2500)
+ - Class 1:  20, Class 2:  18, Class 3:  92, Class 4:  48, Class 5:  18
+tree: 2500
+Error rate: 8.88% ( 222/2500)
+ - Class 1:  35, Class 2:   7, Class 3:  84, Class 4:  63, Class 5:  33
+tree: 2500
+Error rate: 7.72% ( 193/2500)
+ - Class 1:  20, Class 2:  16, Class 3:  87, Class 4:  54, Class 5:  16
+tree: 2500
+Error rate: 7.44% ( 186/2500)
+ - Class 1:  23, Class 2:  13, Class 3:  72, Class 4:  63, Class 5:  15
+tree: 2500
+Error rate: 7.36% ( 184/2500)
+ - Class 1:  16, Class 2:  14, Class 3:  87, Class 4:  48, Class 5:  19
+tree: 2500
+Error rate: 7.28% ( 182/2500)
+ - Class 1:   7, Class 2:  15, Class 3:  75, Class 4:  62, Class 5:  23
+tree: 2500
+Error rate: 10.08% ( 252/2500)
+ - Class 1:  38, Class 2:  14, Class 3: 103, Class 4:  72, Class 5:  25
+tree: 2500
+Error rate: 7.16% ( 179/2500)
+ - Class 1:  16, Class 2:   4, Class 3:  77, Class 4:  62, Class 5:  20
+tree: 2500
+Error rate: 8.56% ( 214/2500)
+ - Class 1:  17, Class 2:  11, Class 3: 120, Class 4:  42, Class 5:  24

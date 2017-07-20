@@ -1,0 +1,400 @@
+minLeafNode:    2
+mean:   8, max:  11, min:   6
+Error rate: 4.24% ( 106/2500)
+ - Class 1:  18, Class 2:  11, Class 3:  35, Class 4:  29, Class 5:  13
+minLeafNode:    2
+mean:   7, max:   9, min:   6
+Error rate: 4.56% ( 114/2500)
+ - Class 1:  17, Class 2:  15, Class 3:  37, Class 4:  37, Class 5:   8
+minLeafNode:    2
+mean:   7, max:  10, min:   6
+Error rate: 4.40% ( 110/2500)
+ - Class 1:  17, Class 2:  12, Class 3:  34, Class 4:  36, Class 5:  11
+minLeafNode:    2
+mean:   8, max:  11, min:   6
+Error rate: 4.32% ( 108/2500)
+ - Class 1:  13, Class 2:  11, Class 3:  36, Class 4:  35, Class 5:  13
+minLeafNode:    2
+mean:   7, max:  11, min:   6
+Error rate: 4.48% ( 112/2500)
+ - Class 1:  17, Class 2:  10, Class 3:  35, Class 4:  41, Class 5:   9
+minLeafNode:    2
+mean:   7, max:   9, min:   6
+Error rate: 4.52% ( 113/2500)
+ - Class 1:  23, Class 2:  10, Class 3:  35, Class 4:  36, Class 5:   9
+minLeafNode:    2
+mean:   7, max:   9, min:   6
+Error rate: 4.40% ( 110/2500)
+ - Class 1:  16, Class 2:  11, Class 3:  42, Class 4:  36, Class 5:   5
+minLeafNode:    2
+mean:   7, max:  12, min:   6
+Error rate: 4.60% ( 115/2500)
+ - Class 1:  17, Class 2:  10, Class 3:  37, Class 4:  42, Class 5:   9
+minLeafNode:    2
+mean:   7, max:  10, min:   6
+Error rate: 4.24% ( 106/2500)
+ - Class 1:  14, Class 2:   9, Class 3:  32, Class 4:  38, Class 5:  13
+minLeafNode:    2
+mean:   8, max:  11, min:   7
+Error rate: 4.72% ( 118/2500)
+ - Class 1:  13, Class 2:  11, Class 3:  37, Class 4:  46, Class 5:  11
+minLeafNode:    4
+mean:   7, max:   9, min:   5
+Error rate: 4.28% ( 107/2500)
+ - Class 1:  15, Class 2:  10, Class 3:  39, Class 4:  37, Class 5:   6
+minLeafNode:    4
+mean:   6, max:   9, min:   5
+Error rate: 4.92% ( 123/2500)
+ - Class 1:  16, Class 2:  10, Class 3:  45, Class 4:  40, Class 5:  12
+minLeafNode:    4
+mean:   7, max:  10, min:   6
+Error rate: 4.32% ( 108/2500)
+ - Class 1:  16, Class 2:  14, Class 3:  32, Class 4:  38, Class 5:   8
+minLeafNode:    4
+mean:   7, max:   9, min:   6
+Error rate: 4.64% ( 116/2500)
+ - Class 1:  17, Class 2:  12, Class 3:  41, Class 4:  35, Class 5:  11
+minLeafNode:    4
+mean:   7, max:   9, min:   6
+Error rate: 4.64% ( 116/2500)
+ - Class 1:  22, Class 2:  10, Class 3:  30, Class 4:  40, Class 5:  14
+minLeafNode:    4
+mean:   7, max:   9, min:   5
+Error rate: 4.32% ( 108/2500)
+ - Class 1:  16, Class 2:  10, Class 3:  34, Class 4:  36, Class 5:  12
+minLeafNode:    4
+mean:   7, max:  10, min:   6
+Error rate: 4.36% ( 109/2500)
+ - Class 1:  15, Class 2:  13, Class 3:  31, Class 4:  39, Class 5:  11
+minLeafNode:    4
+mean:   7, max:  10, min:   6
+Error rate: 5.04% ( 126/2500)
+ - Class 1:  11, Class 2:  13, Class 3:  38, Class 4:  48, Class 5:  16
+minLeafNode:    4
+mean:   6, max:   9, min:   6
+Error rate: 4.36% ( 109/2500)
+ - Class 1:  14, Class 2:  14, Class 3:  33, Class 4:  38, Class 5:  10
+minLeafNode:    4
+mean:   7, max:  10, min:   6
+Error rate: 4.64% ( 116/2500)
+ - Class 1:  18, Class 2:  13, Class 3:  39, Class 4:  32, Class 5:  14
+minLeafNode:    8
+mean:   7, max:   9, min:   5
+Error rate: 5.08% ( 127/2500)
+ - Class 1:  18, Class 2:  12, Class 3:  45, Class 4:  39, Class 5:  13
+minLeafNode:    8
+mean:   6, max:  10, min:   5
+Error rate: 4.76% ( 119/2500)
+ - Class 1:  16, Class 2:   9, Class 3:  42, Class 4:  37, Class 5:  15
+minLeafNode:    8
+mean:   6, max:   8, min:   5
+Error rate: 4.68% ( 117/2500)
+ - Class 1:  16, Class 2:  13, Class 3:  42, Class 4:  36, Class 5:  10
+minLeafNode:    8
+mean:   6, max:   8, min:   5
+Error rate: 4.92% ( 123/2500)
+ - Class 1:  16, Class 2:  12, Class 3:  45, Class 4:  41, Class 5:   9
+minLeafNode:    8
+mean:   6, max:   9, min:   5
+Error rate: 4.32% ( 108/2500)
+ - Class 1:  13, Class 2:   9, Class 3:  30, Class 4:  45, Class 5:  11
+minLeafNode:    8
+mean:   6, max:   9, min:   5
+Error rate: 4.80% ( 120/2500)
+ - Class 1:  15, Class 2:  11, Class 3:  40, Class 4:  43, Class 5:  11
+minLeafNode:    8
+mean:   6, max:   9, min:   5
+Error rate: 4.80% ( 120/2500)
+ - Class 1:  20, Class 2:   9, Class 3:  45, Class 4:  37, Class 5:   9
+minLeafNode:    8
+mean:   6, max:   8, min:   5
+Error rate: 5.00% ( 125/2500)
+ - Class 1:  17, Class 2:  15, Class 3:  41, Class 4:  44, Class 5:   8
+minLeafNode:    8
+mean:   6, max:   9, min:   5
+Error rate: 4.88% ( 122/2500)
+ - Class 1:  21, Class 2:   9, Class 3:  37, Class 4:  42, Class 5:  13
+minLeafNode:    8
+mean:   6, max:   9, min:   5
+Error rate: 4.48% ( 112/2500)
+ - Class 1:  11, Class 2:  10, Class 3:  43, Class 4:  35, Class 5:  13
+minLeafNode:   16
+mean:   6, max:   8, min:   5
+Error rate: 4.68% ( 117/2500)
+ - Class 1:  15, Class 2:   8, Class 3:  47, Class 4:  39, Class 5:   8
+minLeafNode:   16
+mean:   6, max:   8, min:   5
+Error rate: 5.44% ( 136/2500)
+ - Class 1:  22, Class 2:  11, Class 3:  50, Class 4:  40, Class 5:  13
+minLeafNode:   16
+mean:   5, max:   8, min:   4
+Error rate: 5.12% ( 128/2500)
+ - Class 1:  19, Class 2:  11, Class 3:  43, Class 4:  45, Class 5:  10
+minLeafNode:   16
+mean:   6, max:   8, min:   5
+Error rate: 5.08% ( 127/2500)
+ - Class 1:  17, Class 2:   8, Class 3:  41, Class 4:  45, Class 5:  16
+minLeafNode:   16
+mean:   6, max:   8, min:   4
+Error rate: 5.16% ( 129/2500)
+ - Class 1:  15, Class 2:  14, Class 3:  34, Class 4:  52, Class 5:  14
+minLeafNode:   16
+mean:   6, max:   8, min:   4
+Error rate: 5.16% ( 129/2500)
+ - Class 1:  20, Class 2:   9, Class 3:  41, Class 4:  48, Class 5:  11
+minLeafNode:   16
+mean:   6, max:   7, min:   5
+Error rate: 5.16% ( 129/2500)
+ - Class 1:  19, Class 2:  16, Class 3:  53, Class 4:  32, Class 5:   9
+minLeafNode:   16
+mean:   6, max:   8, min:   5
+Error rate: 4.08% ( 102/2500)
+ - Class 1:  17, Class 2:  11, Class 3:  34, Class 4:  29, Class 5:  11
+minLeafNode:   16
+mean:   6, max:   8, min:   4
+Error rate: 5.28% ( 132/2500)
+ - Class 1:  22, Class 2:  12, Class 3:  46, Class 4:  42, Class 5:  10
+minLeafNode:   16
+mean:   6, max:   9, min:   4
+Error rate: 5.36% ( 134/2500)
+ - Class 1:  15, Class 2:  17, Class 3:  33, Class 4:  44, Class 5:  25
+minLeafNode:   32
+mean:   5, max:   7, min:   4
+Error rate: 4.64% ( 116/2500)
+ - Class 1:  13, Class 2:  12, Class 3:  42, Class 4:  42, Class 5:   7
+minLeafNode:   32
+mean:   5, max:   8, min:   4
+Error rate: 4.88% ( 122/2500)
+ - Class 1:  16, Class 2:  10, Class 3:  43, Class 4:  41, Class 5:  12
+minLeafNode:   32
+mean:   5, max:   7, min:   4
+Error rate: 4.88% ( 122/2500)
+ - Class 1:  15, Class 2:  11, Class 3:  43, Class 4:  45, Class 5:   8
+minLeafNode:   32
+mean:   5, max:   7, min:   4
+Error rate: 4.96% ( 124/2500)
+ - Class 1:  18, Class 2:  15, Class 3:  47, Class 4:  34, Class 5:  10
+minLeafNode:   32
+mean:   5, max:   8, min:   4
+Error rate: 4.84% ( 121/2500)
+ - Class 1:  19, Class 2:  10, Class 3:  42, Class 4:  35, Class 5:  15
+minLeafNode:   32
+mean:   5, max:   8, min:   4
+Error rate: 4.64% ( 116/2500)
+ - Class 1:  12, Class 2:  15, Class 3:  47, Class 4:  36, Class 5:   6
+minLeafNode:   32
+mean:   5, max:   8, min:   4
+Error rate: 5.04% ( 126/2500)
+ - Class 1:  25, Class 2:  14, Class 3:  32, Class 4:  45, Class 5:  10
+minLeafNode:   32
+mean:   5, max:   8, min:   4
+Error rate: 4.84% ( 121/2500)
+ - Class 1:  13, Class 2:  12, Class 3:  41, Class 4:  45, Class 5:  10
+minLeafNode:   32
+mean:   5, max:   8, min:   4
+Error rate: 5.16% ( 129/2500)
+ - Class 1:  18, Class 2:  11, Class 3:  49, Class 4:  41, Class 5:  10
+minLeafNode:   32
+mean:   5, max:   7, min:   5
+Error rate: 5.40% ( 135/2500)
+ - Class 1:  20, Class 2:  12, Class 3:  48, Class 4:  48, Class 5:   7
+minLeafNode:   64
+mean:   5, max:   7, min:   4
+Error rate: 4.88% ( 122/2500)
+ - Class 1:  15, Class 2:  17, Class 3:  35, Class 4:  43, Class 5:  12
+minLeafNode:   64
+mean:   5, max:   7, min:   4
+Error rate: 5.96% ( 149/2500)
+ - Class 1:  19, Class 2:  15, Class 3:  45, Class 4:  58, Class 5:  12
+minLeafNode:   64
+mean:   5, max:   7, min:   4
+Error rate: 6.12% ( 153/2500)
+ - Class 1:  18, Class 2:  11, Class 3:  63, Class 4:  52, Class 5:   9
+minLeafNode:   64
+mean:   5, max:   7, min:   4
+Error rate: 4.76% ( 119/2500)
+ - Class 1:  25, Class 2:  13, Class 3:  30, Class 4:  45, Class 5:   6
+minLeafNode:   64
+mean:   5, max:   7, min:   4
+Error rate: 4.60% ( 115/2500)
+ - Class 1:  14, Class 2:  12, Class 3:  49, Class 4:  32, Class 5:   8
+minLeafNode:   64
+mean:   5, max:   8, min:   4
+Error rate: 5.52% ( 138/2500)
+ - Class 1:  19, Class 2:  17, Class 3:  51, Class 4:  43, Class 5:   8
+minLeafNode:   64
+mean:   5, max:   7, min:   4
+Error rate: 4.76% ( 119/2500)
+ - Class 1:  18, Class 2:  12, Class 3:  37, Class 4:  42, Class 5:  10
+minLeafNode:   64
+mean:   5, max:   7, min:   4
+Error rate: 5.36% ( 134/2500)
+ - Class 1:  27, Class 2:  11, Class 3:  48, Class 4:  38, Class 5:  10
+minLeafNode:   64
+mean:   5, max:   7, min:   4
+Error rate: 6.24% ( 156/2500)
+ - Class 1:  22, Class 2:  13, Class 3:  57, Class 4:  53, Class 5:  11
+minLeafNode:   64
+mean:   5, max:   7, min:   4
+Error rate: 4.52% ( 113/2500)
+ - Class 1:  15, Class 2:  10, Class 3:  37, Class 4:  45, Class 5:   6
+minLeafNode:  128
+mean:   5, max:   7, min:   4
+Error rate: 5.52% ( 138/2500)
+ - Class 1:  18, Class 2:  16, Class 3:  45, Class 4:  48, Class 5:  11
+minLeafNode:  128
+mean:   4, max:   6, min:   4
+Error rate: 5.60% ( 140/2500)
+ - Class 1:  17, Class 2:  14, Class 3:  41, Class 4:  57, Class 5:  11
+minLeafNode:  128
+mean:   4, max:   7, min:   4
+Error rate: 6.32% ( 158/2500)
+ - Class 1:  17, Class 2:  11, Class 3:  62, Class 4:  57, Class 5:  11
+minLeafNode:  128
+mean:   4, max:   7, min:   4
+Error rate: 6.04% ( 151/2500)
+ - Class 1:  21, Class 2:   7, Class 3:  60, Class 4:  48, Class 5:  15
+minLeafNode:  128
+mean:   4, max:   6, min:   4
+Error rate: 5.16% ( 129/2500)
+ - Class 1:  16, Class 2:  13, Class 3:  44, Class 4:  44, Class 5:  12
+minLeafNode:  128
+mean:   4, max:   6, min:   4
+Error rate: 5.72% ( 143/2500)
+ - Class 1:  20, Class 2:  15, Class 3:  51, Class 4:  46, Class 5:  11
+minLeafNode:  128
+mean:   4, max:   6, min:   4
+Error rate: 5.20% ( 130/2500)
+ - Class 1:  22, Class 2:  12, Class 3:  44, Class 4:  42, Class 5:  10
+minLeafNode:  128
+mean:   4, max:   6, min:   4
+Error rate: 5.20% ( 130/2500)
+ - Class 1:  10, Class 2:  12, Class 3:  46, Class 4:  53, Class 5:   9
+minLeafNode:  128
+mean:   4, max:   7, min:   4
+Error rate: 4.92% ( 123/2500)
+ - Class 1:  13, Class 2:  15, Class 3:  51, Class 4:  33, Class 5:  11
+minLeafNode:  128
+mean:   5, max:   6, min:   4
+Error rate: 5.08% ( 127/2500)
+ - Class 1:  12, Class 2:  14, Class 3:  43, Class 4:  43, Class 5:  15
+minLeafNode:  256
+mean:   3, max:   5, min:   3
+Error rate: 5.92% ( 148/2500)
+ - Class 1:  23, Class 2:  11, Class 3:  62, Class 4:  41, Class 5:  11
+minLeafNode:  256
+mean:   3, max:   5, min:   3
+Error rate: 5.44% ( 136/2500)
+ - Class 1:  18, Class 2:  12, Class 3:  50, Class 4:  43, Class 5:  13
+minLeafNode:  256
+mean:   3, max:   5, min:   3
+Error rate: 5.32% ( 133/2500)
+ - Class 1:  24, Class 2:  15, Class 3:  44, Class 4:  42, Class 5:   8
+minLeafNode:  256
+mean:   3, max:   5, min:   3
+Error rate: 5.76% ( 144/2500)
+ - Class 1:  20, Class 2:  13, Class 3:  54, Class 4:  45, Class 5:  12
+minLeafNode:  256
+mean:   3, max:   5, min:   3
+Error rate: 5.76% ( 144/2500)
+ - Class 1:  17, Class 2:  14, Class 3:  53, Class 4:  43, Class 5:  17
+minLeafNode:  256
+mean:   3, max:   5, min:   3
+Error rate: 5.32% ( 133/2500)
+ - Class 1:  14, Class 2:  21, Class 3:  51, Class 4:  39, Class 5:   8
+minLeafNode:  256
+mean:   4, max:   5, min:   3
+Error rate: 5.40% ( 135/2500)
+ - Class 1:  14, Class 2:  17, Class 3:  55, Class 4:  37, Class 5:  12
+minLeafNode:  256
+mean:   3, max:   5, min:   3
+Error rate: 5.60% ( 140/2500)
+ - Class 1:  20, Class 2:  13, Class 3:  50, Class 4:  47, Class 5:  10
+minLeafNode:  256
+mean:   4, max:   5, min:   3
+Error rate: 5.12% ( 128/2500)
+ - Class 1:  17, Class 2:  15, Class 3:  50, Class 4:  35, Class 5:  11
+minLeafNode:  256
+mean:   3, max:   5, min:   3
+Error rate: 6.00% ( 150/2500)
+ - Class 1:  22, Class 2:  14, Class 3:  57, Class 4:  46, Class 5:  11
+minLeafNode:  512
+mean:   2, max:   3, min:   2
+Error rate: 5.92% ( 148/2500)
+ - Class 1:  18, Class 2:  14, Class 3:  66, Class 4:  42, Class 5:   8
+minLeafNode:  512
+mean:   2, max:   3, min:   2
+Error rate: 8.08% ( 202/2500)
+ - Class 1:  17, Class 2:  10, Class 3: 120, Class 4:  44, Class 5:  11
+minLeafNode:  512
+mean:   2, max:   3, min:   2
+Error rate: 5.80% ( 145/2500)
+ - Class 1:  17, Class 2:  14, Class 3:  67, Class 4:  35, Class 5:  12
+minLeafNode:  512
+mean:   2, max:   3, min:   2
+Error rate: 5.68% ( 142/2500)
+ - Class 1:  18, Class 2:   7, Class 3:  55, Class 4:  57, Class 5:   5
+minLeafNode:  512
+mean:   2, max:   3, min:   2
+Error rate: 6.84% ( 171/2500)
+ - Class 1:  30, Class 2:  12, Class 3:  70, Class 4:  48, Class 5:  11
+minLeafNode:  512
+mean:   2, max:   3, min:   2
+Error rate: 5.36% ( 134/2500)
+ - Class 1:  14, Class 2:  16, Class 3:  51, Class 4:  46, Class 5:   7
+minLeafNode:  512
+mean:   2, max:   3, min:   2
+Error rate: 5.48% ( 137/2500)
+ - Class 1:  15, Class 2:   9, Class 3:  62, Class 4:  40, Class 5:  11
+minLeafNode:  512
+mean:   2, max:   3, min:   2
+Error rate: 5.28% ( 132/2500)
+ - Class 1:  17, Class 2:  11, Class 3:  62, Class 4:  33, Class 5:   9
+minLeafNode:  512
+mean:   2, max:   3, min:   2
+Error rate: 6.28% ( 157/2500)
+ - Class 1:  12, Class 2:  10, Class 3:  50, Class 4:  68, Class 5:  17
+minLeafNode:  512
+mean:   2, max:   3, min:   2
+Error rate: 6.00% ( 150/2500)
+ - Class 1:  24, Class 2:  10, Class 3:  54, Class 4:  51, Class 5:  11
+minLeafNode: 1024
+mean:   1, max:   1, min:   1
+Error rate: 7.52% ( 188/2500)
+ - Class 1:  22, Class 2:  15, Class 3:  69, Class 4:  70, Class 5:  12
+minLeafNode: 1024
+mean:   1, max:   1, min:   1
+Error rate: 7.72% ( 193/2500)
+ - Class 1:  17, Class 2:  10, Class 3:  90, Class 4:  46, Class 5:  30
+minLeafNode: 1024
+mean:   1, max:   1, min:   1
+Error rate: 8.32% ( 208/2500)
+ - Class 1:  16, Class 2:  19, Class 3:  73, Class 4:  84, Class 5:  16
+minLeafNode: 1024
+mean:   1, max:   1, min:   1
+Error rate: 8.56% ( 214/2500)
+ - Class 1:  28, Class 2:  14, Class 3:  78, Class 4:  72, Class 5:  22
+minLeafNode: 1024
+mean:   1, max:   1, min:   1
+Error rate: 8.60% ( 215/2500)
+ - Class 1:  15, Class 2:   9, Class 3: 105, Class 4:  71, Class 5:  15
+minLeafNode: 1024
+mean:   1, max:   1, min:   1
+Error rate: 8.52% ( 213/2500)
+ - Class 1:  17, Class 2:  11, Class 3:  94, Class 4:  75, Class 5:  16
+minLeafNode: 1024
+mean:   1, max:   1, min:   1
+Error rate: 9.28% ( 232/2500)
+ - Class 1:  17, Class 2:  13, Class 3:  90, Class 4:  91, Class 5:  21
+minLeafNode: 1024
+mean:   1, max:   1, min:   1
+Error rate: 7.52% ( 188/2500)
+ - Class 1:  21, Class 2:  14, Class 3:  84, Class 4:  55, Class 5:  14
+minLeafNode: 1024
+mean:   1, max:   1, min:   1
+Error rate: 7.24% ( 181/2500)
+ - Class 1:  10, Class 2:  11, Class 3:  70, Class 4:  70, Class 5:  20
+minLeafNode: 1024
+mean:   1, max:   1, min:   1
+Error rate: 7.48% ( 187/2500)
+ - Class 1:  15, Class 2:   9, Class 3:  76, Class 4:  66, Class 5:  21

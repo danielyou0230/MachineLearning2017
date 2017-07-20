@@ -1,0 +1,1003 @@
+Kernel: linear
+Nu = 0.01, error rate: 4.88% ( 122/2500)
+ - Class1:  14, Class2:   9, Class3:  46, Class4:  44, Class5:   9
+Nu = 0.02, error rate: 4.68% ( 117/2500)
+ - Class1:  16, Class2:   7, Class3:  44, Class4:  44, Class5:   6
+Nu = 0.03, error rate: 4.64% ( 116/2500)
+ - Class1:  19, Class2:   8, Class3:  45, Class4:  42, Class5:   2
+Nu = 0.04, error rate: 4.40% ( 110/2500)
+ - Class1:  17, Class2:   8, Class3:  41, Class4:  41, Class5:   3
+Nu = 0.05, error rate: 4.36% ( 109/2500)
+ - Class1:  13, Class2:   8, Class3:  42, Class4:  42, Class5:   4
+Nu = 0.06, error rate: 4.36% ( 109/2500)
+ - Class1:  15, Class2:   9, Class3:  42, Class4:  39, Class5:   4
+Nu = 0.07, error rate: 4.20% ( 105/2500)
+ - Class1:  13, Class2:   7, Class3:  41, Class4:  39, Class5:   5
+Nu = 0.08, error rate: 3.96% (  99/2500)
+ - Class1:  12, Class2:   7, Class3:  39, Class4:  36, Class5:   5
+Nu = 0.09, error rate: 4.08% ( 102/2500)
+ - Class1:  15, Class2:   7, Class3:  40, Class4:  35, Class5:   5
+Nu = 0.10, error rate: 4.16% ( 104/2500)
+ - Class1:  16, Class2:   8, Class3:  38, Class4:  37, Class5:   5
+Nu = 0.11, error rate: 4.12% ( 103/2500)
+ - Class1:  14, Class2:   8, Class3:  39, Class4:  37, Class5:   5
+Nu = 0.12, error rate: 4.32% ( 108/2500)
+ - Class1:  15, Class2:   9, Class3:  41, Class4:  38, Class5:   5
+Nu = 0.13, error rate: 4.44% ( 111/2500)
+ - Class1:  15, Class2:  10, Class3:  41, Class4:  40, Class5:   5
+Nu = 0.14, error rate: 4.52% ( 113/2500)
+ - Class1:  16, Class2:  10, Class3:  41, Class4:  40, Class5:   6
+Nu = 0.15, error rate: 4.60% ( 115/2500)
+ - Class1:  16, Class2:  10, Class3:  41, Class4:  41, Class5:   7
+Nu = 0.16, error rate: 4.60% ( 115/2500)
+ - Class1:  16, Class2:   9, Class3:  42, Class4:  42, Class5:   6
+Nu = 0.17, error rate: 4.60% ( 115/2500)
+ - Class1:  16, Class2:   9, Class3:  42, Class4:  42, Class5:   6
+Nu = 0.18, error rate: 4.80% ( 120/2500)
+ - Class1:  17, Class2:   9, Class3:  43, Class4:  45, Class5:   6
+Nu = 0.19, error rate: 4.88% ( 122/2500)
+ - Class1:  17, Class2:   9, Class3:  44, Class4:  46, Class5:   6
+Nu = 0.20, error rate: 4.92% ( 123/2500)
+ - Class1:  18, Class2:   9, Class3:  44, Class4:  46, Class5:   6
+Nu = 0.21, error rate: 5.04% ( 126/2500)
+ - Class1:  18, Class2:   8, Class3:  46, Class4:  46, Class5:   8
+Nu = 0.22, error rate: 5.16% ( 129/2500)
+ - Class1:  18, Class2:  10, Class3:  47, Class4:  46, Class5:   8
+Nu = 0.23, error rate: 5.20% ( 130/2500)
+ - Class1:  18, Class2:  10, Class3:  47, Class4:  46, Class5:   9
+Nu = 0.24, error rate: 5.16% ( 129/2500)
+ - Class1:  18, Class2:  10, Class3:  46, Class4:  46, Class5:   9
+Nu = 0.25, error rate: 5.20% ( 130/2500)
+ - Class1:  18, Class2:  10, Class3:  46, Class4:  47, Class5:   9
+Nu = 0.26, error rate: 5.32% ( 133/2500)
+ - Class1:  18, Class2:  10, Class3:  49, Class4:  47, Class5:   9
+Nu = 0.27, error rate: 5.24% ( 131/2500)
+ - Class1:  18, Class2:   9, Class3:  48, Class4:  47, Class5:   9
+Nu = 0.28, error rate: 5.48% ( 137/2500)
+ - Class1:  18, Class2:   9, Class3:  52, Class4:  48, Class5:  10
+Nu = 0.29, error rate: 5.52% ( 138/2500)
+ - Class1:  18, Class2:   8, Class3:  53, Class4:  49, Class5:  10
+Nu = 0.30, error rate: 5.60% ( 140/2500)
+ - Class1:  18, Class2:   8, Class3:  54, Class4:  50, Class5:  10
+Nu = 0.31, error rate: 5.56% ( 139/2500)
+ - Class1:  18, Class2:   8, Class3:  53, Class4:  50, Class5:  10
+Nu = 0.32, error rate: 5.64% ( 141/2500)
+ - Class1:  18, Class2:   8, Class3:  55, Class4:  50, Class5:  10
+Nu = 0.33, error rate: 5.68% ( 142/2500)
+ - Class1:  18, Class2:   8, Class3:  56, Class4:  50, Class5:  10
+Nu = 0.34, error rate: 5.68% ( 142/2500)
+ - Class1:  18, Class2:   8, Class3:  56, Class4:  50, Class5:  10
+Nu = 0.35, error rate: 5.76% ( 144/2500)
+ - Class1:  18, Class2:   8, Class3:  58, Class4:  50, Class5:  10
+Nu = 0.36, error rate: 5.80% ( 145/2500)
+ - Class1:  18, Class2:   8, Class3:  58, Class4:  51, Class5:  10
+Nu = 0.37, error rate: 5.96% ( 149/2500)
+ - Class1:  19, Class2:   8, Class3:  58, Class4:  52, Class5:  12
+Nu = 0.38, error rate: 6.04% ( 151/2500)
+ - Class1:  19, Class2:   8, Class3:  59, Class4:  53, Class5:  12
+Nu = 0.39, error rate: 6.08% ( 152/2500)
+ - Class1:  19, Class2:   8, Class3:  60, Class4:  53, Class5:  12
+Nu = 0.40, error rate: 6.16% ( 154/2500)
+ - Class1:  20, Class2:   8, Class3:  60, Class4:  54, Class5:  12
+Nu = 0.41, error rate: 6.36% ( 159/2500)
+ - Class1:  21, Class2:   8, Class3:  62, Class4:  56, Class5:  12
+Nu = 0.42, error rate: 6.36% ( 159/2500)
+ - Class1:  22, Class2:   8, Class3:  62, Class4:  55, Class5:  12
+Nu = 0.43, error rate: 6.48% ( 162/2500)
+ - Class1:  22, Class2:   7, Class3:  65, Class4:  56, Class5:  12
+Nu = 0.44, error rate: 6.56% ( 164/2500)
+ - Class1:  24, Class2:   7, Class3:  64, Class4:  56, Class5:  13
+Nu = 0.45, error rate: 6.68% ( 167/2500)
+ - Class1:  24, Class2:   7, Class3:  68, Class4:  55, Class5:  13
+Nu = 0.46, error rate: 6.92% ( 173/2500)
+ - Class1:  24, Class2:   7, Class3:  72, Class4:  56, Class5:  14
+Nu = 0.47, error rate: 6.92% ( 173/2500)
+ - Class1:  24, Class2:   7, Class3:  71, Class4:  57, Class5:  14
+Nu = 0.48, error rate: 7.00% ( 175/2500)
+ - Class1:  24, Class2:   7, Class3:  72, Class4:  58, Class5:  14
+Nu = 0.49, error rate: 7.08% ( 177/2500)
+ - Class1:  24, Class2:   7, Class3:  73, Class4:  59, Class5:  14
+Nu = 0.50, error rate: 7.16% ( 179/2500)
+ - Class1:  24, Class2:   7, Class3:  75, Class4:  58, Class5:  15
+Nu = 0.51, error rate: 7.32% ( 183/2500)
+ - Class1:  25, Class2:   7, Class3:  77, Class4:  59, Class5:  15
+Nu = 0.52, error rate: 7.48% ( 187/2500)
+ - Class1:  25, Class2:   7, Class3:  81, Class4:  59, Class5:  15
+Nu = 0.53, error rate: 7.48% ( 187/2500)
+ - Class1:  25, Class2:   7, Class3:  81, Class4:  59, Class5:  15
+Nu = 0.54, error rate: 7.52% ( 188/2500)
+ - Class1:  25, Class2:   7, Class3:  81, Class4:  60, Class5:  15
+Nu = 0.55, error rate: 7.64% ( 191/2500)
+ - Class1:  27, Class2:   7, Class3:  82, Class4:  60, Class5:  15
+Nu = 0.56, error rate: 7.80% ( 195/2500)
+ - Class1:  28, Class2:   7, Class3:  84, Class4:  61, Class5:  15
+Nu = 0.57, error rate: 7.88% ( 197/2500)
+ - Class1:  29, Class2:   7, Class3:  84, Class4:  62, Class5:  15
+Nu = 0.58, error rate: 8.00% ( 200/2500)
+ - Class1:  30, Class2:   7, Class3:  85, Class4:  63, Class5:  15
+Nu = 0.59, error rate: 8.32% ( 208/2500)
+ - Class1:  31, Class2:   7, Class3:  88, Class4:  64, Class5:  18
+Nu = 0.60, error rate: 8.52% ( 213/2500)
+ - Class1:  32, Class2:   7, Class3:  91, Class4:  65, Class5:  18
+Nu = 0.61, error rate: 8.80% ( 220/2500)
+ - Class1:  32, Class2:   7, Class3:  96, Class4:  65, Class5:  20
+Nu = 0.62, error rate: 8.80% ( 220/2500)
+ - Class1:  32, Class2:   7, Class3:  95, Class4:  66, Class5:  20
+Nu = 0.63, error rate: 8.92% ( 223/2500)
+ - Class1:  32, Class2:   7, Class3:  97, Class4:  67, Class5:  20
+Nu = 0.64, error rate: 8.96% ( 224/2500)
+ - Class1:  33, Class2:   7, Class3:  97, Class4:  67, Class5:  20
+Nu = 0.65, error rate: 9.08% ( 227/2500)
+ - Class1:  34, Class2:   7, Class3:  98, Class4:  67, Class5:  21
+Nu = 0.66, error rate: 9.28% ( 232/2500)
+ - Class1:  36, Class2:   7, Class3: 101, Class4:  67, Class5:  21
+Nu = 0.67, error rate: 9.36% ( 234/2500)
+ - Class1:  39, Class2:   7, Class3: 101, Class4:  66, Class5:  21
+Nu = 0.68, error rate: 9.56% ( 239/2500)
+ - Class1:  41, Class2:   6, Class3: 103, Class4:  66, Class5:  23
+Nu = 0.69, error rate: 9.80% ( 245/2500)
+ - Class1:  44, Class2:   6, Class3: 104, Class4:  68, Class5:  23
+Nu = 0.70, error rate: 9.88% ( 247/2500)
+ - Class1:  44, Class2:   6, Class3: 106, Class4:  68, Class5:  23
+Nu = 0.71, error rate: 10.00% ( 250/2500)
+ - Class1:  45, Class2:   6, Class3: 106, Class4:  69, Class5:  24
+Nu = 0.72, error rate: 10.24% ( 256/2500)
+ - Class1:  48, Class2:   6, Class3: 108, Class4:  70, Class5:  24
+Nu = 0.73, error rate: 10.48% ( 262/2500)
+ - Class1:  49, Class2:   6, Class3: 112, Class4:  70, Class5:  25
+Nu = 0.74, error rate: 10.60% ( 265/2500)
+ - Class1:  49, Class2:   6, Class3: 114, Class4:  71, Class5:  25
+Nu = 0.75, error rate: 10.80% ( 270/2500)
+ - Class1:  50, Class2:   6, Class3: 118, Class4:  71, Class5:  25
+Nu = 0.76, error rate: 10.92% ( 273/2500)
+ - Class1:  50, Class2:   6, Class3: 121, Class4:  71, Class5:  25
+Nu = 0.77, error rate: 10.96% ( 274/2500)
+ - Class1:  50, Class2:   6, Class3: 121, Class4:  71, Class5:  26
+Nu = 0.78, error rate: 11.08% ( 277/2500)
+ - Class1:  50, Class2:   5, Class3: 124, Class4:  72, Class5:  26
+Nu = 0.79, error rate: 11.20% ( 280/2500)
+ - Class1:  50, Class2:   5, Class3: 125, Class4:  73, Class5:  27
+Nu = 0.80, error rate: 11.36% ( 284/2500)
+ - Class1:  50, Class2:   5, Class3: 126, Class4:  76, Class5:  27
+Nu = 0.81, error rate: 11.44% ( 286/2500)
+ - Class1:  50, Class2:   5, Class3: 128, Class4:  76, Class5:  27
+Nu = 0.82, error rate: 11.56% ( 289/2500)
+ - Class1:  53, Class2:   5, Class3: 128, Class4:  76, Class5:  27
+Nu = 0.83, error rate: 11.76% ( 294/2500)
+ - Class1:  54, Class2:   5, Class3: 129, Class4:  79, Class5:  27
+Nu = 0.84, error rate: 11.88% ( 297/2500)
+ - Class1:  54, Class2:   5, Class3: 132, Class4:  79, Class5:  27
+Nu = 0.85, error rate: 11.92% ( 298/2500)
+ - Class1:  54, Class2:   5, Class3: 132, Class4:  80, Class5:  27
+Nu = 0.86, error rate: 12.24% ( 306/2500)
+ - Class1:  56, Class2:   5, Class3: 134, Class4:  82, Class5:  29
+Nu = 0.87, error rate: 12.40% ( 310/2500)
+ - Class1:  55, Class2:   5, Class3: 134, Class4:  85, Class5:  31
+Nu = 0.88, error rate: 12.68% ( 317/2500)
+ - Class1:  55, Class2:   5, Class3: 139, Class4:  86, Class5:  32
+Nu = 0.89, error rate: 12.92% ( 323/2500)
+ - Class1:  56, Class2:   4, Class3: 140, Class4:  91, Class5:  32
+Nu = 0.90, error rate: 13.00% ( 325/2500)
+ - Class1:  56, Class2:   4, Class3: 142, Class4:  91, Class5:  32
+Nu = 0.91, error rate: 13.20% ( 330/2500)
+ - Class1:  58, Class2:   4, Class3: 142, Class4:  92, Class5:  34
+Nu = 0.92, error rate: 13.52% ( 338/2500)
+ - Class1:  59, Class2:   4, Class3: 146, Class4:  95, Class5:  34
+Nu = 0.93, error rate: 13.92% ( 348/2500)
+ - Class1:  59, Class2:   4, Class3: 151, Class4:  97, Class5:  37
+Nu = 0.94, error rate: 14.28% ( 357/2500)
+ - Class1:  60, Class2:   4, Class3: 155, Class4: 102, Class5:  36
+Nu = 0.95, error rate: 14.84% ( 371/2500)
+ - Class1:  65, Class2:   4, Class3: 161, Class4: 103, Class5:  38
+Nu = 0.96, error rate: 15.56% ( 389/2500)
+ - Class1:  72, Class2:   4, Class3: 169, Class4: 106, Class5:  38
+Nu = 0.97, error rate: 16.20% ( 405/2500)
+ - Class1:  74, Class2:   4, Class3: 170, Class4: 117, Class5:  40
+Nu = 0.98, error rate: 17.00% ( 425/2500)
+ - Class1:  78, Class2:   3, Class3: 179, Class4: 123, Class5:  42
+Nu = 0.99, error rate: 18.28% ( 457/2500)
+ - Class1:  81, Class2:   2, Class3: 191, Class4: 131, Class5:  52
+Nu = 1.00, error rate: 80.00% (2000/2500)
+ - Class1: 500, Class2: 500, Class3: 500, Class4: 500, Class5:   0
+Kernel: poly
+Order = 2, Nu = 0.01, error rate: 2.32% (  58/2500)
+ - Class1:   4, Class2:   7, Class3:  17, Class4:  27, Class5:   3
+Order = 2, Nu = 0.02, error rate: 2.28% (  57/2500)
+ - Class1:   7, Class2:   9, Class3:  12, Class4:  26, Class5:   3
+Order = 2, Nu = 0.03, error rate: 2.32% (  58/2500)
+ - Class1:   7, Class2:   9, Class3:  14, Class4:  25, Class5:   3
+Order = 2, Nu = 0.04, error rate: 2.16% (  54/2500)
+ - Class1:   6, Class2:   7, Class3:  15, Class4:  23, Class5:   3
+Order = 2, Nu = 0.05, error rate: 2.00% (  50/2500)
+ - Class1:   6, Class2:   6, Class3:  15, Class4:  21, Class5:   2
+Order = 2, Nu = 0.06, error rate: 2.20% (  55/2500)
+ - Class1:   9, Class2:   6, Class3:  14, Class4:  24, Class5:   2
+Order = 2, Nu = 0.07, error rate: 2.28% (  57/2500)
+ - Class1:   9, Class2:   6, Class3:  15, Class4:  25, Class5:   2
+Order = 2, Nu = 0.08, error rate: 2.32% (  58/2500)
+ - Class1:   9, Class2:   5, Class3:  16, Class4:  26, Class5:   2
+Order = 2, Nu = 0.09, error rate: 2.44% (  61/2500)
+ - Class1:   9, Class2:   8, Class3:  18, Class4:  24, Class5:   2
+Order = 2, Nu = 0.10, error rate: 2.52% (  63/2500)
+ - Class1:  10, Class2:   8, Class3:  18, Class4:  25, Class5:   2
+Order = 2, Nu = 0.11, error rate: 2.68% (  67/2500)
+ - Class1:  11, Class2:   8, Class3:  19, Class4:  27, Class5:   2
+Order = 2, Nu = 0.12, error rate: 2.72% (  68/2500)
+ - Class1:  11, Class2:   8, Class3:  19, Class4:  27, Class5:   3
+Order = 2, Nu = 0.13, error rate: 2.88% (  72/2500)
+ - Class1:  12, Class2:   8, Class3:  20, Class4:  28, Class5:   4
+Order = 2, Nu = 0.14, error rate: 3.00% (  75/2500)
+ - Class1:  12, Class2:   8, Class3:  22, Class4:  28, Class5:   5
+Order = 2, Nu = 0.15, error rate: 3.32% (  83/2500)
+ - Class1:  13, Class2:   8, Class3:  24, Class4:  33, Class5:   5
+Order = 2, Nu = 0.16, error rate: 3.48% (  87/2500)
+ - Class1:  15, Class2:   8, Class3:  23, Class4:  35, Class5:   6
+Order = 2, Nu = 0.17, error rate: 3.68% (  92/2500)
+ - Class1:  16, Class2:   8, Class3:  26, Class4:  36, Class5:   6
+Order = 2, Nu = 0.18, error rate: 3.92% (  98/2500)
+ - Class1:  16, Class2:   8, Class3:  30, Class4:  38, Class5:   6
+Order = 2, Nu = 0.19, error rate: 4.12% ( 103/2500)
+ - Class1:  18, Class2:   9, Class3:  31, Class4:  38, Class5:   7
+Order = 2, Nu = 0.20, error rate: 4.24% ( 106/2500)
+ - Class1:  18, Class2:   9, Class3:  33, Class4:  39, Class5:   7
+Order = 2, Nu = 0.21, error rate: 4.36% ( 109/2500)
+ - Class1:  20, Class2:   9, Class3:  33, Class4:  40, Class5:   7
+Order = 2, Nu = 0.22, error rate: 4.68% ( 117/2500)
+ - Class1:  22, Class2:   9, Class3:  34, Class4:  44, Class5:   8
+Order = 2, Nu = 0.23, error rate: 4.80% ( 120/2500)
+ - Class1:  23, Class2:   8, Class3:  37, Class4:  44, Class5:   8
+Order = 2, Nu = 0.24, error rate: 4.84% ( 121/2500)
+ - Class1:  23, Class2:   8, Class3:  37, Class4:  45, Class5:   8
+Order = 2, Nu = 0.25, error rate: 4.96% ( 124/2500)
+ - Class1:  23, Class2:   8, Class3:  38, Class4:  46, Class5:   9
+Order = 2, Nu = 0.26, error rate: 5.16% ( 129/2500)
+ - Class1:  24, Class2:   7, Class3:  40, Class4:  48, Class5:  10
+Order = 2, Nu = 0.27, error rate: 5.24% ( 131/2500)
+ - Class1:  24, Class2:   7, Class3:  41, Class4:  49, Class5:  10
+Order = 2, Nu = 0.28, error rate: 5.32% ( 133/2500)
+ - Class1:  25, Class2:   7, Class3:  41, Class4:  50, Class5:  10
+Order = 2, Nu = 0.29, error rate: 5.56% ( 139/2500)
+ - Class1:  28, Class2:   7, Class3:  43, Class4:  50, Class5:  11
+Order = 2, Nu = 0.30, error rate: 5.68% ( 142/2500)
+ - Class1:  29, Class2:   7, Class3:  45, Class4:  50, Class5:  11
+Order = 2, Nu = 0.31, error rate: 5.84% ( 146/2500)
+ - Class1:  29, Class2:   7, Class3:  48, Class4:  51, Class5:  11
+Order = 2, Nu = 0.32, error rate: 6.00% ( 150/2500)
+ - Class1:  29, Class2:   7, Class3:  49, Class4:  53, Class5:  12
+Order = 2, Nu = 0.33, error rate: 6.20% ( 155/2500)
+ - Class1:  29, Class2:   7, Class3:  51, Class4:  56, Class5:  12
+Order = 2, Nu = 0.34, error rate: 6.32% ( 158/2500)
+ - Class1:  29, Class2:   7, Class3:  54, Class4:  56, Class5:  12
+Order = 2, Nu = 0.35, error rate: 6.52% ( 163/2500)
+ - Class1:  32, Class2:   7, Class3:  55, Class4:  57, Class5:  12
+Order = 2, Nu = 0.36, error rate: 6.76% ( 169/2500)
+ - Class1:  34, Class2:   7, Class3:  56, Class4:  58, Class5:  14
+Order = 2, Nu = 0.37, error rate: 6.92% ( 173/2500)
+ - Class1:  34, Class2:   7, Class3:  60, Class4:  58, Class5:  14
+Order = 2, Nu = 0.38, error rate: 7.12% ( 178/2500)
+ - Class1:  36, Class2:   7, Class3:  61, Class4:  60, Class5:  14
+Order = 2, Nu = 0.39, error rate: 7.24% ( 181/2500)
+ - Class1:  37, Class2:   7, Class3:  61, Class4:  62, Class5:  14
+Order = 2, Nu = 0.40, error rate: 7.60% ( 190/2500)
+ - Class1:  38, Class2:   7, Class3:  67, Class4:  63, Class5:  15
+Order = 2, Nu = 0.41, error rate: 7.64% ( 191/2500)
+ - Class1:  38, Class2:   7, Class3:  67, Class4:  63, Class5:  16
+Order = 2, Nu = 0.42, error rate: 7.68% ( 192/2500)
+ - Class1:  39, Class2:   7, Class3:  67, Class4:  63, Class5:  16
+Order = 2, Nu = 0.43, error rate: 7.96% ( 199/2500)
+ - Class1:  40, Class2:   7, Class3:  70, Class4:  66, Class5:  16
+Order = 2, Nu = 0.44, error rate: 8.00% ( 200/2500)
+ - Class1:  40, Class2:   7, Class3:  70, Class4:  67, Class5:  16
+Order = 2, Nu = 0.45, error rate: 8.36% ( 209/2500)
+ - Class1:  43, Class2:   7, Class3:  74, Class4:  69, Class5:  16
+Order = 2, Nu = 0.46, error rate: 8.52% ( 213/2500)
+ - Class1:  43, Class2:   7, Class3:  77, Class4:  70, Class5:  16
+Order = 2, Nu = 0.47, error rate: 8.88% ( 222/2500)
+ - Class1:  47, Class2:   7, Class3:  77, Class4:  73, Class5:  18
+Order = 2, Nu = 0.48, error rate: 9.16% ( 229/2500)
+ - Class1:  50, Class2:   7, Class3:  80, Class4:  73, Class5:  19
+Order = 2, Nu = 0.49, error rate: 9.32% ( 233/2500)
+ - Class1:  52, Class2:   7, Class3:  81, Class4:  74, Class5:  19
+Order = 2, Nu = 0.50, error rate: 9.36% ( 234/2500)
+ - Class1:  52, Class2:   7, Class3:  80, Class4:  76, Class5:  19
+Order = 2, Nu = 0.51, error rate: 9.44% ( 236/2500)
+ - Class1:  53, Class2:   7, Class3:  80, Class4:  77, Class5:  19
+Order = 2, Nu = 0.52, error rate: 9.72% ( 243/2500)
+ - Class1:  60, Class2:   7, Class3:  80, Class4:  78, Class5:  18
+Order = 2, Nu = 0.53, error rate: 9.88% ( 247/2500)
+ - Class1:  62, Class2:   6, Class3:  82, Class4:  79, Class5:  18
+Order = 2, Nu = 0.54, error rate: 10.24% ( 256/2500)
+ - Class1:  62, Class2:   6, Class3:  85, Class4:  82, Class5:  21
+Order = 2, Nu = 0.55, error rate: 10.44% ( 261/2500)
+ - Class1:  62, Class2:   6, Class3:  87, Class4:  85, Class5:  21
+Order = 2, Nu = 0.56, error rate: 10.92% ( 273/2500)
+ - Class1:  65, Class2:   6, Class3:  93, Class4:  88, Class5:  21
+Order = 2, Nu = 0.57, error rate: 11.16% ( 279/2500)
+ - Class1:  67, Class2:   6, Class3:  95, Class4:  89, Class5:  22
+Order = 2, Nu = 0.58, error rate: 11.28% ( 282/2500)
+ - Class1:  68, Class2:   6, Class3:  96, Class4:  89, Class5:  23
+Order = 2, Nu = 0.59, error rate: 11.68% ( 292/2500)
+ - Class1:  70, Class2:   6, Class3: 100, Class4:  92, Class5:  24
+Order = 2, Nu = 0.60, error rate: 11.92% ( 298/2500)
+ - Class1:  72, Class2:   6, Class3: 103, Class4:  94, Class5:  23
+Order = 2, Nu = 0.61, error rate: 12.24% ( 306/2500)
+ - Class1:  77, Class2:   5, Class3: 107, Class4:  95, Class5:  22
+Order = 2, Nu = 0.62, error rate: 12.52% ( 313/2500)
+ - Class1:  79, Class2:   5, Class3: 109, Class4:  98, Class5:  22
+Order = 2, Nu = 0.63, error rate: 12.76% ( 319/2500)
+ - Class1:  83, Class2:   4, Class3: 112, Class4:  98, Class5:  22
+Order = 2, Nu = 0.64, error rate: 12.96% ( 324/2500)
+ - Class1:  85, Class2:   4, Class3: 113, Class4:  99, Class5:  23
+Order = 2, Nu = 0.65, error rate: 13.20% ( 330/2500)
+ - Class1:  86, Class2:   4, Class3: 115, Class4: 100, Class5:  25
+Order = 2, Nu = 0.66, error rate: 13.40% ( 335/2500)
+ - Class1:  90, Class2:   3, Class3: 116, Class4: 101, Class5:  25
+Order = 2, Nu = 0.67, error rate: 13.80% ( 345/2500)
+ - Class1:  96, Class2:   3, Class3: 117, Class4: 103, Class5:  26
+Order = 2, Nu = 0.68, error rate: 14.00% ( 350/2500)
+ - Class1:  97, Class2:   3, Class3: 117, Class4: 106, Class5:  27
+Order = 2, Nu = 0.69, error rate: 14.12% ( 353/2500)
+ - Class1:  98, Class2:   3, Class3: 118, Class4: 107, Class5:  27
+Order = 2, Nu = 0.70, error rate: 14.60% ( 365/2500)
+ - Class1: 101, Class2:   3, Class3: 121, Class4: 112, Class5:  28
+Order = 2, Nu = 0.71, error rate: 14.84% ( 371/2500)
+ - Class1: 103, Class2:   3, Class3: 122, Class4: 114, Class5:  29
+Order = 2, Nu = 0.72, error rate: 15.56% ( 389/2500)
+ - Class1: 112, Class2:   3, Class3: 128, Class4: 116, Class5:  30
+Order = 2, Nu = 0.73, error rate: 16.04% ( 401/2500)
+ - Class1: 116, Class2:   3, Class3: 131, Class4: 118, Class5:  33
+Order = 2, Nu = 0.74, error rate: 16.80% ( 420/2500)
+ - Class1: 120, Class2:   3, Class3: 137, Class4: 124, Class5:  36
+Order = 2, Nu = 0.75, error rate: 17.32% ( 433/2500)
+ - Class1: 123, Class2:   3, Class3: 143, Class4: 127, Class5:  37
+Order = 2, Nu = 0.76, error rate: 17.84% ( 446/2500)
+ - Class1: 125, Class2:   3, Class3: 148, Class4: 130, Class5:  40
+Order = 2, Nu = 0.77, error rate: 18.44% ( 461/2500)
+ - Class1: 129, Class2:   3, Class3: 153, Class4: 133, Class5:  43
+Order = 2, Nu = 0.78, error rate: 18.68% ( 467/2500)
+ - Class1: 130, Class2:   3, Class3: 154, Class4: 135, Class5:  45
+Order = 2, Nu = 0.79, error rate: 18.96% ( 474/2500)
+ - Class1: 133, Class2:   3, Class3: 156, Class4: 138, Class5:  44
+Order = 2, Nu = 0.80, error rate: 19.64% ( 491/2500)
+ - Class1: 139, Class2:   3, Class3: 159, Class4: 143, Class5:  47
+Order = 2, Nu = 0.81, error rate: 20.28% ( 507/2500)
+ - Class1: 146, Class2:   3, Class3: 164, Class4: 146, Class5:  48
+Order = 2, Nu = 0.82, error rate: 20.76% ( 519/2500)
+ - Class1: 148, Class2:   3, Class3: 168, Class4: 150, Class5:  50
+Order = 2, Nu = 0.83, error rate: 21.20% ( 530/2500)
+ - Class1: 152, Class2:   3, Class3: 169, Class4: 153, Class5:  53
+Order = 2, Nu = 0.84, error rate: 21.76% ( 544/2500)
+ - Class1: 158, Class2:   3, Class3: 174, Class4: 156, Class5:  53
+Order = 2, Nu = 0.85, error rate: 22.40% ( 560/2500)
+ - Class1: 163, Class2:   1, Class3: 178, Class4: 163, Class5:  55
+Order = 2, Nu = 0.86, error rate: 22.68% ( 567/2500)
+ - Class1: 164, Class2:   1, Class3: 182, Class4: 164, Class5:  56
+Order = 2, Nu = 0.87, error rate: 23.36% ( 584/2500)
+ - Class1: 167, Class2:   1, Class3: 189, Class4: 171, Class5:  56
+Order = 2, Nu = 0.88, error rate: 24.04% ( 601/2500)
+ - Class1: 171, Class2:   1, Class3: 193, Class4: 178, Class5:  58
+Order = 2, Nu = 0.89, error rate: 25.40% ( 635/2500)
+ - Class1: 177, Class2:   1, Class3: 207, Class4: 182, Class5:  68
+Order = 2, Nu = 0.90, error rate: 26.44% ( 661/2500)
+ - Class1: 183, Class2:   1, Class3: 213, Class4: 191, Class5:  73
+Order = 2, Nu = 0.91, error rate: 27.32% ( 683/2500)
+ - Class1: 189, Class2:   1, Class3: 221, Class4: 193, Class5:  79
+Order = 2, Nu = 0.92, error rate: 28.36% ( 709/2500)
+ - Class1: 195, Class2:   1, Class3: 231, Class4: 201, Class5:  81
+Order = 2, Nu = 0.93, error rate: 29.40% ( 735/2500)
+ - Class1: 200, Class2:   1, Class3: 239, Class4: 211, Class5:  84
+Order = 2, Nu = 0.94, error rate: 30.64% ( 766/2500)
+ - Class1: 205, Class2:   1, Class3: 248, Class4: 222, Class5:  90
+Order = 2, Nu = 0.95, error rate: 32.16% ( 804/2500)
+ - Class1: 211, Class2:   1, Class3: 257, Class4: 237, Class5:  98
+Order = 2, Nu = 0.96, error rate: 34.00% ( 850/2500)
+ - Class1: 222, Class2:   1, Class3: 264, Class4: 246, Class5: 117
+Order = 2, Nu = 0.97, error rate: 36.56% ( 914/2500)
+ - Class1: 238, Class2:   0, Class3: 275, Class4: 269, Class5: 132
+Order = 2, Nu = 0.98, error rate: 39.76% ( 994/2500)
+ - Class1: 259, Class2:   0, Class3: 289, Class4: 289, Class5: 157
+Order = 2, Nu = 0.99, error rate: 45.00% (1125/2500)
+ - Class1: 291, Class2:   0, Class3: 310, Class4: 319, Class5: 205
+Order = 2, Nu = 1.00, error rate: 80.00% (2000/2500)
+ - Class1: 500, Class2: 500, Class3: 500, Class4: 500, Class5:   0
+Order = 3, Nu = 0.01, error rate: 12.24% ( 306/2500)
+ - Class1:   5, Class2:  30, Class3: 157, Class4:  72, Class5:  42
+Order = 3, Nu = 0.02, error rate: 9.24% ( 231/2500)
+ - Class1:   8, Class2: 121, Class3:  22, Class4:  64, Class5:  16
+Order = 3, Nu = 0.03, error rate: 4.16% ( 104/2500)
+ - Class1:   3, Class2:  38, Class3:  24, Class4:  34, Class5:   5
+Order = 3, Nu = 0.04, error rate: 3.52% (  88/2500)
+ - Class1:   3, Class2:  32, Class3:  15, Class4:  29, Class5:   9
+Order = 3, Nu = 0.05, error rate: 2.56% (  64/2500)
+ - Class1:   3, Class2:  10, Class3:  21, Class4:  26, Class5:   4
+Order = 3, Nu = 0.06, error rate: 2.00% (  50/2500)
+ - Class1:   4, Class2:   6, Class3:  11, Class4:  19, Class5:  10
+Order = 3, Nu = 0.07, error rate: 2.00% (  50/2500)
+ - Class1:   5, Class2:   6, Class3:  14, Class4:  22, Class5:   3
+Order = 3, Nu = 0.08, error rate: 2.00% (  50/2500)
+ - Class1:   6, Class2:   5, Class3:  14, Class4:  23, Class5:   2
+Order = 3, Nu = 0.09, error rate: 2.24% (  56/2500)
+ - Class1:   7, Class2:   9, Class3:  14, Class4:  22, Class5:   4
+Order = 3, Nu = 0.10, error rate: 2.20% (  55/2500)
+ - Class1:   7, Class2:   6, Class3:  17, Class4:  23, Class5:   2
+Order = 3, Nu = 0.11, error rate: 2.16% (  54/2500)
+ - Class1:   9, Class2:   6, Class3:  13, Class4:  24, Class5:   2
+Order = 3, Nu = 0.12, error rate: 2.48% (  62/2500)
+ - Class1:  12, Class2:   6, Class3:  16, Class4:  26, Class5:   2
+Order = 3, Nu = 0.13, error rate: 2.40% (  60/2500)
+ - Class1:  14, Class2:   6, Class3:  14, Class4:  24, Class5:   2
+Order = 3, Nu = 0.14, error rate: 3.00% (  75/2500)
+ - Class1:  16, Class2:   7, Class3:  18, Class4:  28, Class5:   6
+Order = 3, Nu = 0.15, error rate: 2.96% (  74/2500)
+ - Class1:  14, Class2:   6, Class3:  18, Class4:  29, Class5:   7
+Order = 3, Nu = 0.16, error rate: 3.12% (  78/2500)
+ - Class1:  19, Class2:   5, Class3:  16, Class4:  33, Class5:   5
+Order = 3, Nu = 0.17, error rate: 3.52% (  88/2500)
+ - Class1:  20, Class2:   6, Class3:  21, Class4:  34, Class5:   7
+Order = 3, Nu = 0.18, error rate: 3.64% (  91/2500)
+ - Class1:  20, Class2:   8, Class3:  18, Class4:  34, Class5:  11
+Order = 3, Nu = 0.19, error rate: 4.12% ( 103/2500)
+ - Class1:  24, Class2:   6, Class3:  23, Class4:  37, Class5:  13
+Order = 3, Nu = 0.20, error rate: 4.48% ( 112/2500)
+ - Class1:  25, Class2:   7, Class3:  24, Class4:  43, Class5:  13
+Order = 3, Nu = 0.21, error rate: 4.96% ( 124/2500)
+ - Class1:  26, Class2:   7, Class3:  30, Class4:  48, Class5:  13
+Order = 3, Nu = 0.22, error rate: 5.00% ( 125/2500)
+ - Class1:  28, Class2:   7, Class3:  30, Class4:  48, Class5:  12
+Order = 3, Nu = 0.23, error rate: 5.52% ( 138/2500)
+ - Class1:  29, Class2:   8, Class3:  33, Class4:  53, Class5:  15
+Order = 3, Nu = 0.24, error rate: 5.80% ( 145/2500)
+ - Class1:  30, Class2:   8, Class3:  39, Class4:  52, Class5:  16
+Order = 3, Nu = 0.25, error rate: 5.88% ( 147/2500)
+ - Class1:  31, Class2:   7, Class3:  39, Class4:  55, Class5:  15
+Order = 3, Nu = 0.26, error rate: 6.32% ( 158/2500)
+ - Class1:  31, Class2:   7, Class3:  42, Class4:  61, Class5:  17
+Order = 3, Nu = 0.27, error rate: 6.52% ( 163/2500)
+ - Class1:  35, Class2:   7, Class3:  42, Class4:  62, Class5:  17
+Order = 3, Nu = 0.28, error rate: 6.68% ( 167/2500)
+ - Class1:  39, Class2:   7, Class3:  43, Class4:  62, Class5:  16
+Order = 3, Nu = 0.29, error rate: 6.84% ( 171/2500)
+ - Class1:  41, Class2:   7, Class3:  45, Class4:  62, Class5:  16
+Order = 3, Nu = 0.30, error rate: 7.24% ( 181/2500)
+ - Class1:  42, Class2:   7, Class3:  51, Class4:  65, Class5:  16
+Order = 3, Nu = 0.31, error rate: 7.36% ( 184/2500)
+ - Class1:  44, Class2:   7, Class3:  52, Class4:  65, Class5:  16
+Order = 3, Nu = 0.32, error rate: 7.48% ( 187/2500)
+ - Class1:  46, Class2:   7, Class3:  53, Class4:  65, Class5:  16
+Order = 3, Nu = 0.33, error rate: 7.60% ( 190/2500)
+ - Class1:  49, Class2:   7, Class3:  52, Class4:  66, Class5:  16
+Order = 3, Nu = 0.34, error rate: 7.76% ( 194/2500)
+ - Class1:  49, Class2:   7, Class3:  54, Class4:  68, Class5:  16
+Order = 3, Nu = 0.35, error rate: 7.92% ( 198/2500)
+ - Class1:  50, Class2:   5, Class3:  57, Class4:  68, Class5:  18
+Order = 3, Nu = 0.36, error rate: 8.24% ( 206/2500)
+ - Class1:  52, Class2:   4, Class3:  59, Class4:  70, Class5:  21
+Order = 3, Nu = 0.37, error rate: 8.64% ( 216/2500)
+ - Class1:  56, Class2:   4, Class3:  63, Class4:  72, Class5:  21
+Order = 3, Nu = 0.38, error rate: 8.92% ( 223/2500)
+ - Class1:  58, Class2:   4, Class3:  66, Class4:  74, Class5:  21
+Order = 3, Nu = 0.39, error rate: 9.16% ( 229/2500)
+ - Class1:  61, Class2:   4, Class3:  68, Class4:  74, Class5:  22
+Order = 3, Nu = 0.40, error rate: 9.28% ( 232/2500)
+ - Class1:  63, Class2:   4, Class3:  68, Class4:  77, Class5:  20
+Order = 3, Nu = 0.41, error rate: 9.64% ( 241/2500)
+ - Class1:  67, Class2:   4, Class3:  69, Class4:  80, Class5:  21
+Order = 3, Nu = 0.42, error rate: 9.84% ( 246/2500)
+ - Class1:  69, Class2:   4, Class3:  70, Class4:  82, Class5:  21
+Order = 3, Nu = 0.43, error rate: 10.12% ( 253/2500)
+ - Class1:  73, Class2:   4, Class3:  71, Class4:  84, Class5:  21
+Order = 3, Nu = 0.44, error rate: 10.60% ( 265/2500)
+ - Class1:  79, Class2:   4, Class3:  71, Class4:  87, Class5:  24
+Order = 3, Nu = 0.45, error rate: 10.88% ( 272/2500)
+ - Class1:  80, Class2:   3, Class3:  74, Class4:  92, Class5:  23
+Order = 3, Nu = 0.46, error rate: 11.32% ( 283/2500)
+ - Class1:  83, Class2:   3, Class3:  78, Class4:  95, Class5:  24
+Order = 3, Nu = 0.47, error rate: 11.64% ( 291/2500)
+ - Class1:  88, Class2:   3, Class3:  81, Class4:  95, Class5:  24
+Order = 3, Nu = 0.48, error rate: 11.88% ( 297/2500)
+ - Class1:  90, Class2:   3, Class3:  82, Class4:  98, Class5:  24
+Order = 3, Nu = 0.49, error rate: 12.40% ( 310/2500)
+ - Class1:  94, Class2:   3, Class3:  86, Class4: 102, Class5:  25
+Order = 3, Nu = 0.50, error rate: 12.76% ( 319/2500)
+ - Class1:  97, Class2:   3, Class3:  92, Class4: 102, Class5:  25
+Order = 3, Nu = 0.51, error rate: 13.20% ( 330/2500)
+ - Class1: 102, Class2:   3, Class3:  96, Class4: 103, Class5:  26
+Order = 3, Nu = 0.52, error rate: 13.56% ( 339/2500)
+ - Class1: 105, Class2:   3, Class3:  99, Class4: 106, Class5:  26
+Order = 3, Nu = 0.53, error rate: 14.00% ( 350/2500)
+ - Class1: 108, Class2:   3, Class3: 102, Class4: 110, Class5:  27
+Order = 3, Nu = 0.54, error rate: 14.68% ( 367/2500)
+ - Class1: 113, Class2:   3, Class3: 103, Class4: 117, Class5:  31
+Order = 3, Nu = 0.55, error rate: 15.04% ( 376/2500)
+ - Class1: 115, Class2:   3, Class3: 105, Class4: 122, Class5:  31
+Order = 3, Nu = 0.56, error rate: 15.84% ( 396/2500)
+ - Class1: 121, Class2:   3, Class3: 112, Class4: 123, Class5:  37
+Order = 3, Nu = 0.57, error rate: 16.04% ( 401/2500)
+ - Class1: 123, Class2:   3, Class3: 114, Class4: 125, Class5:  36
+Order = 3, Nu = 0.58, error rate: 16.60% ( 415/2500)
+ - Class1: 130, Class2:   3, Class3: 116, Class4: 128, Class5:  38
+Order = 3, Nu = 0.59, error rate: 17.24% ( 431/2500)
+ - Class1: 131, Class2:   3, Class3: 125, Class4: 131, Class5:  41
+Order = 3, Nu = 0.60, error rate: 17.72% ( 443/2500)
+ - Class1: 135, Class2:   3, Class3: 129, Class4: 132, Class5:  44
+Order = 3, Nu = 0.61, error rate: 17.96% ( 449/2500)
+ - Class1: 137, Class2:   3, Class3: 130, Class4: 134, Class5:  45
+Order = 3, Nu = 0.62, error rate: 18.20% ( 455/2500)
+ - Class1: 141, Class2:   3, Class3: 132, Class4: 134, Class5:  45
+Order = 3, Nu = 0.63, error rate: 18.80% ( 470/2500)
+ - Class1: 147, Class2:   3, Class3: 134, Class4: 137, Class5:  49
+Order = 3, Nu = 0.64, error rate: 19.20% ( 480/2500)
+ - Class1: 150, Class2:   3, Class3: 135, Class4: 140, Class5:  52
+Order = 3, Nu = 0.65, error rate: 19.76% ( 494/2500)
+ - Class1: 154, Class2:   3, Class3: 138, Class4: 144, Class5:  55
+Order = 3, Nu = 0.66, error rate: 20.40% ( 510/2500)
+ - Class1: 159, Class2:   3, Class3: 143, Class4: 145, Class5:  60
+Order = 3, Nu = 0.67, error rate: 20.76% ( 519/2500)
+ - Class1: 159, Class2:   3, Class3: 144, Class4: 149, Class5:  64
+Order = 3, Nu = 0.68, error rate: 21.36% ( 534/2500)
+ - Class1: 164, Class2:   3, Class3: 147, Class4: 151, Class5:  69
+Order = 3, Nu = 0.69, error rate: 21.92% ( 548/2500)
+ - Class1: 165, Class2:   3, Class3: 153, Class4: 157, Class5:  70
+Order = 3, Nu = 0.70, error rate: 22.56% ( 564/2500)
+ - Class1: 171, Class2:   3, Class3: 155, Class4: 161, Class5:  74
+Order = 3, Nu = 0.71, error rate: 23.16% ( 579/2500)
+ - Class1: 177, Class2:   3, Class3: 157, Class4: 166, Class5:  76
+Order = 3, Nu = 0.72, error rate: 23.64% ( 591/2500)
+ - Class1: 180, Class2:   3, Class3: 159, Class4: 169, Class5:  80
+Order = 3, Nu = 0.73, error rate: 24.36% ( 609/2500)
+ - Class1: 185, Class2:   3, Class3: 165, Class4: 173, Class5:  83
+Order = 3, Nu = 0.74, error rate: 25.32% ( 633/2500)
+ - Class1: 188, Class2:   2, Class3: 174, Class4: 179, Class5:  90
+Order = 3, Nu = 0.75, error rate: 26.08% ( 652/2500)
+ - Class1: 193, Class2:   2, Class3: 176, Class4: 187, Class5:  94
+Order = 3, Nu = 0.76, error rate: 26.76% ( 669/2500)
+ - Class1: 196, Class2:   2, Class3: 184, Class4: 192, Class5:  95
+Order = 3, Nu = 0.77, error rate: 27.80% ( 695/2500)
+ - Class1: 202, Class2:   2, Class3: 193, Class4: 198, Class5: 100
+Order = 3, Nu = 0.78, error rate: 28.56% ( 714/2500)
+ - Class1: 208, Class2:   2, Class3: 200, Class4: 202, Class5: 102
+Order = 3, Nu = 0.79, error rate: 29.36% ( 734/2500)
+ - Class1: 209, Class2:   2, Class3: 208, Class4: 209, Class5: 106
+Order = 3, Nu = 0.80, error rate: 30.12% ( 753/2500)
+ - Class1: 214, Class2:   2, Class3: 217, Class4: 212, Class5: 108
+Order = 3, Nu = 0.81, error rate: 30.80% ( 770/2500)
+ - Class1: 219, Class2:   2, Class3: 223, Class4: 215, Class5: 111
+Order = 3, Nu = 0.82, error rate: 31.60% ( 790/2500)
+ - Class1: 229, Class2:   2, Class3: 229, Class4: 217, Class5: 113
+Order = 3, Nu = 0.83, error rate: 32.24% ( 806/2500)
+ - Class1: 232, Class2:   2, Class3: 235, Class4: 222, Class5: 115
+Order = 3, Nu = 0.84, error rate: 33.32% ( 833/2500)
+ - Class1: 237, Class2:   2, Class3: 247, Class4: 230, Class5: 117
+Order = 3, Nu = 0.85, error rate: 34.00% ( 850/2500)
+ - Class1: 241, Class2:   2, Class3: 253, Class4: 234, Class5: 120
+Order = 3, Nu = 0.86, error rate: 34.76% ( 869/2500)
+ - Class1: 244, Class2:   2, Class3: 257, Class4: 238, Class5: 128
+Order = 3, Nu = 0.87, error rate: 35.52% ( 888/2500)
+ - Class1: 248, Class2:   2, Class3: 264, Class4: 241, Class5: 133
+Order = 3, Nu = 0.88, error rate: 36.56% ( 914/2500)
+ - Class1: 255, Class2:   1, Class3: 268, Class4: 248, Class5: 142
+Order = 3, Nu = 0.89, error rate: 37.60% ( 940/2500)
+ - Class1: 260, Class2:   1, Class3: 275, Class4: 257, Class5: 147
+Order = 3, Nu = 0.90, error rate: 39.20% ( 980/2500)
+ - Class1: 266, Class2:   1, Class3: 293, Class4: 266, Class5: 154
+Order = 3, Nu = 0.91, error rate: 40.32% (1008/2500)
+ - Class1: 274, Class2:   1, Class3: 296, Class4: 273, Class5: 164
+Order = 3, Nu = 0.92, error rate: 41.56% (1039/2500)
+ - Class1: 277, Class2:   0, Class3: 304, Class4: 286, Class5: 172
+Order = 3, Nu = 0.93, error rate: 42.80% (1070/2500)
+ - Class1: 283, Class2:   0, Class3: 310, Class4: 296, Class5: 181
+Order = 3, Nu = 0.94, error rate: 44.32% (1108/2500)
+ - Class1: 290, Class2:   0, Class3: 317, Class4: 307, Class5: 194
+Order = 3, Nu = 0.95, error rate: 47.04% (1176/2500)
+ - Class1: 305, Class2:   0, Class3: 326, Class4: 322, Class5: 223
+Order = 3, Nu = 0.96, error rate: 48.84% (1221/2500)
+ - Class1: 317, Class2:   0, Class3: 339, Class4: 331, Class5: 234
+Order = 3, Nu = 0.97, error rate: 51.72% (1293/2500)
+ - Class1: 339, Class2:   0, Class3: 348, Class4: 348, Class5: 258
+Order = 3, Nu = 0.98, error rate: 55.28% (1382/2500)
+ - Class1: 358, Class2:   0, Class3: 359, Class4: 366, Class5: 299
+Order = 3, Nu = 0.99, error rate: 61.56% (1539/2500)
+ - Class1: 403, Class2:   0, Class3: 388, Class4: 393, Class5: 355
+Order = 3, Nu = 1.00, error rate: 80.00% (2000/2500)
+ - Class1: 500, Class2: 500, Class3: 500, Class4: 500, Class5:   0
+Order = 4, Nu = 0.01, error rate: 30.56% ( 764/2500)
+ - Class1: 350, Class2:   5, Class3: 177, Class4: 205, Class5:  27
+Order = 4, Nu = 0.02, error rate: 29.96% ( 749/2500)
+ - Class1: 105, Class2:   2, Class3: 282, Class4: 133, Class5: 227
+Order = 4, Nu = 0.03, error rate: 32.68% ( 817/2500)
+ - Class1: 190, Class2: 144, Class3:   2, Class4: 274, Class5: 207
+Order = 4, Nu = 0.04, error rate: 14.76% ( 369/2500)
+ - Class1: 132, Class2:   6, Class3:  70, Class4: 141, Class5:  20
+Order = 4, Nu = 0.05, error rate: 10.64% ( 266/2500)
+ - Class1:  35, Class2:  11, Class3:  11, Class4: 122, Class5:  87
+Order = 4, Nu = 0.06, error rate: 24.44% ( 611/2500)
+ - Class1:  59, Class2:   3, Class3: 262, Class4: 197, Class5:  90
+Order = 4, Nu = 0.07, error rate: 18.68% ( 467/2500)
+ - Class1:  14, Class2:   1, Class3: 125, Class4: 178, Class5: 149
+Order = 4, Nu = 0.08, error rate: 15.52% ( 388/2500)
+ - Class1:  55, Class2:   6, Class3: 107, Class4:  38, Class5: 182
+Order = 4, Nu = 0.09, error rate: 17.28% ( 432/2500)
+ - Class1:  62, Class2:  14, Class3:   9, Class4: 172, Class5: 175
+Order = 4, Nu = 0.10, error rate: 26.76% ( 669/2500)
+ - Class1:  10, Class2: 282, Class3:   6, Class4: 237, Class5: 134
+Order = 4, Nu = 0.11, error rate: 8.84% ( 221/2500)
+ - Class1:  72, Class2:   2, Class3:  31, Class4:  92, Class5:  24
+Order = 4, Nu = 0.12, error rate: 8.60% ( 215/2500)
+ - Class1:  23, Class2:   3, Class3:  47, Class4: 130, Class5:  12
+Order = 4, Nu = 0.13, error rate: 12.28% ( 307/2500)
+ - Class1:   6, Class2:   1, Class3:  80, Class4: 146, Class5:  74
+Order = 4, Nu = 0.14, error rate: 6.92% ( 173/2500)
+ - Class1:  20, Class2:  36, Class3:  33, Class4:  20, Class5:  64
+Order = 4, Nu = 0.15, error rate: 6.92% ( 173/2500)
+ - Class1:  35, Class2:  15, Class3:  45, Class4:  13, Class5:  65
+Order = 4, Nu = 0.16, error rate: 16.32% ( 408/2500)
+ - Class1:  19, Class2:   1, Class3: 116, Class4: 137, Class5: 135
+Order = 4, Nu = 0.17, error rate: 7.72% ( 193/2500)
+ - Class1:  20, Class2:  15, Class3:  64, Class4:  91, Class5:   3
+Order = 4, Nu = 0.18, error rate: 13.20% ( 330/2500)
+ - Class1:  41, Class2:  10, Class3: 124, Class4: 152, Class5:   3
+Order = 4, Nu = 0.19, error rate: 9.12% ( 228/2500)
+ - Class1:  21, Class2:   3, Class3:  81, Class4: 120, Class5:   3
+Order = 4, Nu = 0.20, error rate: 11.52% ( 288/2500)
+ - Class1:  27, Class2:  49, Class3: 109, Class4:  19, Class5:  84
+Order = 4, Nu = 0.21, error rate: 9.28% ( 232/2500)
+ - Class1:  30, Class2:  88, Class3:  60, Class4:  51, Class5:   3
+Order = 4, Nu = 0.22, error rate: 9.48% ( 237/2500)
+ - Class1:  48, Class2:   3, Class3:  54, Class4:  51, Class5:  81
+Order = 4, Nu = 0.23, error rate: 11.36% ( 284/2500)
+ - Class1:  46, Class2:   2, Class3: 105, Class4: 110, Class5:  21
+Order = 4, Nu = 0.24, error rate: 11.04% ( 276/2500)
+ - Class1:  41, Class2:   4, Class3:  72, Class4: 110, Class5:  49
+Order = 4, Nu = 0.25, error rate: 7.08% ( 177/2500)
+ - Class1:  46, Class2:  14, Class3:  59, Class4:  55, Class5:   3
+Order = 4, Nu = 0.26, error rate: 6.08% ( 152/2500)
+ - Class1:  42, Class2:  14, Class3:  35, Class4:  57, Class5:   4
+Order = 4, Nu = 0.27, error rate: 7.88% ( 197/2500)
+ - Class1:  43, Class2:   9, Class3:  33, Class4: 108, Class5:   4
+Order = 4, Nu = 0.28, error rate: 8.20% ( 205/2500)
+ - Class1:  46, Class2:  73, Class3:  28, Class4:  54, Class5:   4
+Order = 4, Nu = 0.29, error rate: 15.60% ( 390/2500)
+ - Class1:  67, Class2:   2, Class3:  88, Class4: 118, Class5: 115
+Order = 4, Nu = 0.30, error rate: 10.64% ( 266/2500)
+ - Class1:  69, Class2:   4, Class3:  78, Class4:  96, Class5:  19
+Order = 4, Nu = 0.31, error rate: 9.52% ( 238/2500)
+ - Class1:  64, Class2:   5, Class3:  48, Class4: 101, Class5:  20
+Order = 4, Nu = 0.32, error rate: 10.92% ( 273/2500)
+ - Class1:  76, Class2:   5, Class3:  91, Class4:  94, Class5:   7
+Order = 4, Nu = 0.33, error rate: 10.48% ( 262/2500)
+ - Class1:  66, Class2:   6, Class3:  88, Class4:  97, Class5:   5
+Order = 4, Nu = 0.34, error rate: 9.56% ( 239/2500)
+ - Class1:  75, Class2:   9, Class3:  59, Class4:  92, Class5:   4
+Order = 4, Nu = 0.35, error rate: 10.92% ( 273/2500)
+ - Class1:  84, Class2:   3, Class3:  70, Class4:  69, Class5:  47
+Order = 4, Nu = 0.36, error rate: 11.92% ( 298/2500)
+ - Class1:  79, Class2:   7, Class3:  96, Class4: 112, Class5:   4
+Order = 4, Nu = 0.37, error rate: 11.88% ( 297/2500)
+ - Class1:  83, Class2:  13, Class3: 105, Class4:  93, Class5:   3
+Order = 4, Nu = 0.38, error rate: 10.52% ( 263/2500)
+ - Class1:  82, Class2:  17, Class3:  70, Class4:  90, Class5:   4
+Order = 4, Nu = 0.39, error rate: 10.80% ( 270/2500)
+ - Class1:  85, Class2:   5, Class3:  72, Class4:  92, Class5:  16
+Order = 4, Nu = 0.40, error rate: 12.96% ( 324/2500)
+ - Class1:  94, Class2:   4, Class3:  79, Class4: 104, Class5:  43
+Order = 4, Nu = 0.41, error rate: 11.32% ( 283/2500)
+ - Class1:  98, Class2:   4, Class3:  75, Class4:  88, Class5:  18
+Order = 4, Nu = 0.42, error rate: 12.08% ( 302/2500)
+ - Class1: 100, Class2:   8, Class3:  68, Class4: 108, Class5:  18
+Order = 4, Nu = 0.43, error rate: 13.80% ( 345/2500)
+ - Class1: 102, Class2:   3, Class3: 104, Class4:  97, Class5:  39
+Order = 4, Nu = 0.44, error rate: 13.60% ( 340/2500)
+ - Class1: 112, Class2:   5, Class3: 104, Class4: 104, Class5:  15
+Order = 4, Nu = 0.45, error rate: 16.08% ( 402/2500)
+ - Class1: 116, Class2:   3, Class3: 105, Class4: 123, Class5:  55
+Order = 4, Nu = 0.46, error rate: 13.60% ( 340/2500)
+ - Class1: 115, Class2:  12, Class3: 107, Class4: 103, Class5:   3
+Order = 4, Nu = 0.47, error rate: 14.40% ( 360/2500)
+ - Class1: 118, Class2:   5, Class3: 122, Class4:  98, Class5:  17
+Order = 4, Nu = 0.48, error rate: 17.64% ( 441/2500)
+ - Class1: 120, Class2:   3, Class3: 118, Class4: 125, Class5:  75
+Order = 4, Nu = 0.49, error rate: 16.00% ( 400/2500)
+ - Class1: 122, Class2:   3, Class3: 115, Class4: 117, Class5:  43
+Order = 4, Nu = 0.50, error rate: 15.64% ( 391/2500)
+ - Class1: 128, Class2:   3, Class3: 113, Class4: 120, Class5:  27
+Order = 4, Nu = 0.51, error rate: 16.16% ( 404/2500)
+ - Class1: 135, Class2:   3, Class3: 112, Class4: 118, Class5:  36
+Order = 4, Nu = 0.52, error rate: 15.76% ( 394/2500)
+ - Class1: 132, Class2:   3, Class3: 113, Class4: 119, Class5:  27
+Order = 4, Nu = 0.53, error rate: 16.64% ( 416/2500)
+ - Class1: 142, Class2:   3, Class3: 121, Class4: 128, Class5:  22
+Order = 4, Nu = 0.54, error rate: 17.76% ( 444/2500)
+ - Class1: 146, Class2:   3, Class3: 121, Class4: 138, Class5:  36
+Order = 4, Nu = 0.55, error rate: 18.04% ( 451/2500)
+ - Class1: 149, Class2:   3, Class3: 131, Class4: 132, Class5:  36
+Order = 4, Nu = 0.56, error rate: 19.48% ( 487/2500)
+ - Class1: 153, Class2:   3, Class3: 123, Class4: 131, Class5:  77
+Order = 4, Nu = 0.57, error rate: 19.44% ( 486/2500)
+ - Class1: 158, Class2:   3, Class3: 132, Class4: 149, Class5:  44
+Order = 4, Nu = 0.58, error rate: 19.92% ( 498/2500)
+ - Class1: 158, Class2:   3, Class3: 145, Class4: 155, Class5:  37
+Order = 4, Nu = 0.59, error rate: 20.88% ( 522/2500)
+ - Class1: 165, Class2:   3, Class3: 139, Class4: 159, Class5:  56
+Order = 4, Nu = 0.60, error rate: 21.36% ( 534/2500)
+ - Class1: 171, Class2:   3, Class3: 137, Class4: 154, Class5:  69
+Order = 4, Nu = 0.61, error rate: 22.16% ( 554/2500)
+ - Class1: 173, Class2:   3, Class3: 152, Class4: 151, Class5:  75
+Order = 4, Nu = 0.62, error rate: 22.04% ( 551/2500)
+ - Class1: 176, Class2:   3, Class3: 150, Class4: 158, Class5:  64
+Order = 4, Nu = 0.63, error rate: 23.96% ( 599/2500)
+ - Class1: 179, Class2:   3, Class3: 151, Class4: 170, Class5:  96
+Order = 4, Nu = 0.64, error rate: 24.88% ( 622/2500)
+ - Class1: 185, Class2:   3, Class3: 163, Class4: 161, Class5: 110
+Order = 4, Nu = 0.65, error rate: 26.04% ( 651/2500)
+ - Class1: 187, Class2:   2, Class3: 169, Class4: 185, Class5: 108
+Order = 4, Nu = 0.66, error rate: 26.92% ( 673/2500)
+ - Class1: 196, Class2:   2, Class3: 170, Class4: 185, Class5: 120
+Order = 4, Nu = 0.67, error rate: 25.96% ( 649/2500)
+ - Class1: 200, Class2:   2, Class3: 175, Class4: 191, Class5:  81
+Order = 4, Nu = 0.68, error rate: 26.52% ( 663/2500)
+ - Class1: 205, Class2:   2, Class3: 172, Class4: 191, Class5:  93
+Order = 4, Nu = 0.69, error rate: 28.32% ( 708/2500)
+ - Class1: 211, Class2:   2, Class3: 190, Class4: 201, Class5: 104
+Order = 4, Nu = 0.70, error rate: 29.24% ( 731/2500)
+ - Class1: 214, Class2:   2, Class3: 190, Class4: 204, Class5: 121
+Order = 4, Nu = 0.71, error rate: 30.16% ( 754/2500)
+ - Class1: 217, Class2:   2, Class3: 201, Class4: 207, Class5: 127
+Order = 4, Nu = 0.72, error rate: 29.60% ( 740/2500)
+ - Class1: 225, Class2:   2, Class3: 205, Class4: 208, Class5: 100
+Order = 4, Nu = 0.73, error rate: 31.28% ( 782/2500)
+ - Class1: 227, Class2:   2, Class3: 207, Class4: 218, Class5: 128
+Order = 4, Nu = 0.74, error rate: 32.20% ( 805/2500)
+ - Class1: 230, Class2:   2, Class3: 208, Class4: 224, Class5: 141
+Order = 4, Nu = 0.75, error rate: 32.72% ( 818/2500)
+ - Class1: 236, Class2:   2, Class3: 223, Class4: 224, Class5: 133
+Order = 4, Nu = 0.76, error rate: 33.92% ( 848/2500)
+ - Class1: 242, Class2:   2, Class3: 241, Class4: 227, Class5: 136
+Order = 4, Nu = 0.77, error rate: 34.44% ( 861/2500)
+ - Class1: 246, Class2:   2, Class3: 233, Class4: 234, Class5: 146
+Order = 4, Nu = 0.78, error rate: 34.76% ( 869/2500)
+ - Class1: 247, Class2:   2, Class3: 245, Class4: 236, Class5: 139
+Order = 4, Nu = 0.79, error rate: 36.60% ( 915/2500)
+ - Class1: 254, Class2:   2, Class3: 255, Class4: 240, Class5: 164
+Order = 4, Nu = 0.80, error rate: 36.12% ( 903/2500)
+ - Class1: 256, Class2:   2, Class3: 253, Class4: 250, Class5: 142
+Order = 4, Nu = 0.81, error rate: 37.76% ( 944/2500)
+ - Class1: 261, Class2:   2, Class3: 273, Class4: 254, Class5: 154
+Order = 4, Nu = 0.82, error rate: 39.52% ( 988/2500)
+ - Class1: 265, Class2:   2, Class3: 282, Class4: 258, Class5: 181
+Order = 4, Nu = 0.83, error rate: 39.48% ( 987/2500)
+ - Class1: 267, Class2:   2, Class3: 285, Class4: 268, Class5: 165
+Order = 4, Nu = 0.84, error rate: 40.88% (1022/2500)
+ - Class1: 273, Class2:   2, Class3: 290, Class4: 270, Class5: 187
+Order = 4, Nu = 0.85, error rate: 40.76% (1019/2500)
+ - Class1: 276, Class2:   2, Class3: 291, Class4: 277, Class5: 173
+Order = 4, Nu = 0.86, error rate: 41.96% (1049/2500)
+ - Class1: 280, Class2:   2, Class3: 297, Class4: 282, Class5: 188
+Order = 4, Nu = 0.87, error rate: 42.88% (1072/2500)
+ - Class1: 291, Class2:   2, Class3: 302, Class4: 292, Class5: 185
+Order = 4, Nu = 0.88, error rate: 44.48% (1112/2500)
+ - Class1: 294, Class2:   0, Class3: 313, Class4: 300, Class5: 205
+Order = 4, Nu = 0.89, error rate: 45.48% (1137/2500)
+ - Class1: 300, Class2:   0, Class3: 316, Class4: 307, Class5: 214
+Order = 4, Nu = 0.90, error rate: 47.08% (1177/2500)
+ - Class1: 313, Class2:   0, Class3: 328, Class4: 314, Class5: 222
+Order = 4, Nu = 0.91, error rate: 48.08% (1202/2500)
+ - Class1: 321, Class2:   0, Class3: 334, Class4: 319, Class5: 228
+Order = 4, Nu = 0.92, error rate: 49.92% (1248/2500)
+ - Class1: 331, Class2:   0, Class3: 341, Class4: 324, Class5: 252
+Order = 4, Nu = 0.93, error rate: 50.92% (1273/2500)
+ - Class1: 335, Class2:   0, Class3: 349, Class4: 333, Class5: 256
+Order = 4, Nu = 0.94, error rate: 52.40% (1310/2500)
+ - Class1: 339, Class2:   0, Class3: 351, Class4: 350, Class5: 270
+Order = 4, Nu = 0.95, error rate: 55.44% (1386/2500)
+ - Class1: 352, Class2:   0, Class3: 363, Class4: 362, Class5: 309
+Order = 4, Nu = 0.96, error rate: 57.24% (1431/2500)
+ - Class1: 365, Class2:   0, Class3: 371, Class4: 372, Class5: 323
+Order = 4, Nu = 0.97, error rate: 59.80% (1495/2500)
+ - Class1: 387, Class2:   0, Class3: 381, Class4: 388, Class5: 339
+Order = 4, Nu = 0.98, error rate: 63.40% (1585/2500)
+ - Class1: 413, Class2:   0, Class3: 393, Class4: 406, Class5: 373
+Order = 4, Nu = 0.99, error rate: 69.80% (1745/2500)
+ - Class1: 438, Class2:   0, Class3: 428, Class4: 447, Class5: 432
+Order = 4, Nu = 1.00, error rate: 80.00% (2000/2500)
+ - Class1: 500, Class2: 500, Class3: 500, Class4: 500, Class5:   0
+Kernel: rbf
+Nu = 0.01, error rate: 3.12% (  78/2500)
+ - Class1:   8, Class2:   8, Class3:  26, Class4:  33, Class5:   3
+Nu = 0.02, error rate: 3.12% (  78/2500)
+ - Class1:  12, Class2:   7, Class3:  26, Class4:  30, Class5:   3
+Nu = 0.03, error rate: 3.40% (  85/2500)
+ - Class1:  16, Class2:   7, Class3:  28, Class4:  32, Class5:   2
+Nu = 0.04, error rate: 3.20% (  80/2500)
+ - Class1:  13, Class2:   6, Class3:  27, Class4:  32, Class5:   2
+Nu = 0.05, error rate: 3.44% (  86/2500)
+ - Class1:  11, Class2:   8, Class3:  30, Class4:  33, Class5:   4
+Nu = 0.06, error rate: 3.52% (  88/2500)
+ - Class1:  13, Class2:   8, Class3:  30, Class4:  34, Class5:   3
+Nu = 0.07, error rate: 3.56% (  89/2500)
+ - Class1:  12, Class2:   7, Class3:  32, Class4:  33, Class5:   5
+Nu = 0.08, error rate: 3.56% (  89/2500)
+ - Class1:  13, Class2:   7, Class3:  32, Class4:  32, Class5:   5
+Nu = 0.09, error rate: 3.64% (  91/2500)
+ - Class1:  13, Class2:   6, Class3:  34, Class4:  33, Class5:   5
+Nu = 0.10, error rate: 3.76% (  94/2500)
+ - Class1:  12, Class2:   7, Class3:  35, Class4:  35, Class5:   5
+Nu = 0.11, error rate: 3.88% (  97/2500)
+ - Class1:  13, Class2:   8, Class3:  35, Class4:  36, Class5:   5
+Nu = 0.12, error rate: 4.12% ( 103/2500)
+ - Class1:  13, Class2:   9, Class3:  40, Class4:  36, Class5:   5
+Nu = 0.13, error rate: 4.28% ( 107/2500)
+ - Class1:  14, Class2:  10, Class3:  39, Class4:  39, Class5:   5
+Nu = 0.14, error rate: 4.40% ( 110/2500)
+ - Class1:  15, Class2:  11, Class3:  39, Class4:  40, Class5:   5
+Nu = 0.15, error rate: 4.52% ( 113/2500)
+ - Class1:  16, Class2:  11, Class3:  39, Class4:  40, Class5:   7
+Nu = 0.16, error rate: 4.48% ( 112/2500)
+ - Class1:  15, Class2:   9, Class3:  41, Class4:  41, Class5:   6
+Nu = 0.17, error rate: 4.48% ( 112/2500)
+ - Class1:  15, Class2:   9, Class3:  41, Class4:  41, Class5:   6
+Nu = 0.18, error rate: 4.56% ( 114/2500)
+ - Class1:  16, Class2:   9, Class3:  41, Class4:  42, Class5:   6
+Nu = 0.19, error rate: 4.60% ( 115/2500)
+ - Class1:  16, Class2:   9, Class3:  42, Class4:  42, Class5:   6
+Nu = 0.20, error rate: 4.76% ( 119/2500)
+ - Class1:  16, Class2:   9, Class3:  44, Class4:  44, Class5:   6
+Nu = 0.21, error rate: 4.80% ( 120/2500)
+ - Class1:  17, Class2:   9, Class3:  44, Class4:  43, Class5:   7
+Nu = 0.22, error rate: 5.00% ( 125/2500)
+ - Class1:  18, Class2:  10, Class3:  44, Class4:  45, Class5:   8
+Nu = 0.23, error rate: 5.00% ( 125/2500)
+ - Class1:  18, Class2:  10, Class3:  44, Class4:  45, Class5:   8
+Nu = 0.24, error rate: 5.00% ( 125/2500)
+ - Class1:  18, Class2:  10, Class3:  44, Class4:  45, Class5:   8
+Nu = 0.25, error rate: 5.04% ( 126/2500)
+ - Class1:  17, Class2:  10, Class3:  45, Class4:  45, Class5:   9
+Nu = 0.26, error rate: 5.08% ( 127/2500)
+ - Class1:  17, Class2:  10, Class3:  46, Class4:  45, Class5:   9
+Nu = 0.27, error rate: 5.16% ( 129/2500)
+ - Class1:  18, Class2:  10, Class3:  47, Class4:  45, Class5:   9
+Nu = 0.28, error rate: 5.28% ( 132/2500)
+ - Class1:  18, Class2:  10, Class3:  49, Class4:  46, Class5:   9
+Nu = 0.29, error rate: 5.20% ( 130/2500)
+ - Class1:  18, Class2:   8, Class3:  49, Class4:  46, Class5:   9
+Nu = 0.30, error rate: 5.44% ( 136/2500)
+ - Class1:  18, Class2:   8, Class3:  51, Class4:  49, Class5:  10
+Nu = 0.31, error rate: 5.48% ( 137/2500)
+ - Class1:  18, Class2:   8, Class3:  52, Class4:  49, Class5:  10
+Nu = 0.32, error rate: 5.52% ( 138/2500)
+ - Class1:  18, Class2:   8, Class3:  53, Class4:  49, Class5:  10
+Nu = 0.33, error rate: 5.64% ( 141/2500)
+ - Class1:  18, Class2:   8, Class3:  56, Class4:  49, Class5:  10
+Nu = 0.34, error rate: 5.68% ( 142/2500)
+ - Class1:  18, Class2:   8, Class3:  57, Class4:  49, Class5:  10
+Nu = 0.35, error rate: 5.68% ( 142/2500)
+ - Class1:  18, Class2:   8, Class3:  57, Class4:  49, Class5:  10
+Nu = 0.36, error rate: 5.68% ( 142/2500)
+ - Class1:  18, Class2:   8, Class3:  56, Class4:  50, Class5:  10
+Nu = 0.37, error rate: 5.72% ( 143/2500)
+ - Class1:  18, Class2:   8, Class3:  57, Class4:  50, Class5:  10
+Nu = 0.38, error rate: 5.84% ( 146/2500)
+ - Class1:  19, Class2:   8, Class3:  58, Class4:  50, Class5:  11
+Nu = 0.39, error rate: 6.00% ( 150/2500)
+ - Class1:  19, Class2:   8, Class3:  59, Class4:  52, Class5:  12
+Nu = 0.40, error rate: 6.00% ( 150/2500)
+ - Class1:  19, Class2:   8, Class3:  59, Class4:  52, Class5:  12
+Nu = 0.41, error rate: 6.08% ( 152/2500)
+ - Class1:  20, Class2:   8, Class3:  60, Class4:  52, Class5:  12
+Nu = 0.42, error rate: 6.12% ( 153/2500)
+ - Class1:  21, Class2:   8, Class3:  59, Class4:  53, Class5:  12
+Nu = 0.43, error rate: 6.28% ( 157/2500)
+ - Class1:  21, Class2:   8, Class3:  60, Class4:  56, Class5:  12
+Nu = 0.44, error rate: 6.20% ( 155/2500)
+ - Class1:  21, Class2:   8, Class3:  59, Class4:  55, Class5:  12
+Nu = 0.45, error rate: 6.56% ( 164/2500)
+ - Class1:  23, Class2:   8, Class3:  64, Class4:  56, Class5:  13
+Nu = 0.46, error rate: 6.60% ( 165/2500)
+ - Class1:  24, Class2:   7, Class3:  65, Class4:  56, Class5:  13
+Nu = 0.47, error rate: 6.68% ( 167/2500)
+ - Class1:  24, Class2:   7, Class3:  66, Class4:  56, Class5:  14
+Nu = 0.48, error rate: 6.80% ( 170/2500)
+ - Class1:  24, Class2:   7, Class3:  69, Class4:  56, Class5:  14
+Nu = 0.49, error rate: 6.92% ( 173/2500)
+ - Class1:  24, Class2:   7, Class3:  72, Class4:  56, Class5:  14
+Nu = 0.50, error rate: 7.00% ( 175/2500)
+ - Class1:  24, Class2:   7, Class3:  72, Class4:  58, Class5:  14
+Nu = 0.51, error rate: 7.16% ( 179/2500)
+ - Class1:  24, Class2:   7, Class3:  75, Class4:  58, Class5:  15
+Nu = 0.52, error rate: 7.16% ( 179/2500)
+ - Class1:  24, Class2:   7, Class3:  75, Class4:  58, Class5:  15
+Nu = 0.53, error rate: 7.20% ( 180/2500)
+ - Class1:  24, Class2:   7, Class3:  77, Class4:  57, Class5:  15
+Nu = 0.54, error rate: 7.32% ( 183/2500)
+ - Class1:  25, Class2:   7, Class3:  78, Class4:  58, Class5:  15
+Nu = 0.55, error rate: 7.32% ( 183/2500)
+ - Class1:  25, Class2:   7, Class3:  79, Class4:  57, Class5:  15
+Nu = 0.56, error rate: 7.52% ( 188/2500)
+ - Class1:  27, Class2:   7, Class3:  81, Class4:  58, Class5:  15
+Nu = 0.57, error rate: 7.56% ( 189/2500)
+ - Class1:  27, Class2:   7, Class3:  80, Class4:  60, Class5:  15
+Nu = 0.58, error rate: 7.76% ( 194/2500)
+ - Class1:  28, Class2:   7, Class3:  82, Class4:  62, Class5:  15
+Nu = 0.59, error rate: 7.92% ( 198/2500)
+ - Class1:  30, Class2:   7, Class3:  84, Class4:  62, Class5:  15
+Nu = 0.60, error rate: 7.92% ( 198/2500)
+ - Class1:  29, Class2:   7, Class3:  84, Class4:  62, Class5:  16
+Nu = 0.61, error rate: 8.16% ( 204/2500)
+ - Class1:  30, Class2:   7, Class3:  88, Class4:  62, Class5:  17
+Nu = 0.62, error rate: 8.32% ( 208/2500)
+ - Class1:  30, Class2:   7, Class3:  92, Class4:  61, Class5:  18
+Nu = 0.63, error rate: 8.36% ( 209/2500)
+ - Class1:  30, Class2:   7, Class3:  90, Class4:  62, Class5:  20
+Nu = 0.64, error rate: 8.60% ( 215/2500)
+ - Class1:  31, Class2:   7, Class3:  92, Class4:  65, Class5:  20
+Nu = 0.65, error rate: 8.68% ( 217/2500)
+ - Class1:  31, Class2:   7, Class3:  94, Class4:  65, Class5:  20
+Nu = 0.66, error rate: 8.88% ( 222/2500)
+ - Class1:  33, Class2:   7, Class3:  97, Class4:  65, Class5:  20
+Nu = 0.67, error rate: 9.12% ( 228/2500)
+ - Class1:  33, Class2:   7, Class3: 100, Class4:  67, Class5:  21
+Nu = 0.68, error rate: 9.16% ( 229/2500)
+ - Class1:  34, Class2:   7, Class3: 100, Class4:  67, Class5:  21
+Nu = 0.69, error rate: 9.28% ( 232/2500)
+ - Class1:  37, Class2:   7, Class3: 100, Class4:  67, Class5:  21
+Nu = 0.70, error rate: 9.56% ( 239/2500)
+ - Class1:  41, Class2:   7, Class3: 101, Class4:  67, Class5:  23
+Nu = 0.71, error rate: 9.60% ( 240/2500)
+ - Class1:  41, Class2:   7, Class3: 101, Class4:  68, Class5:  23
+Nu = 0.72, error rate: 9.76% ( 244/2500)
+ - Class1:  44, Class2:   7, Class3: 102, Class4:  68, Class5:  23
+Nu = 0.73, error rate: 9.80% ( 245/2500)
+ - Class1:  44, Class2:   6, Class3: 104, Class4:  68, Class5:  23
+Nu = 0.74, error rate: 9.92% ( 248/2500)
+ - Class1:  45, Class2:   6, Class3: 106, Class4:  68, Class5:  23
+Nu = 0.75, error rate: 10.24% ( 256/2500)
+ - Class1:  49, Class2:   6, Class3: 108, Class4:  69, Class5:  24
+Nu = 0.76, error rate: 10.32% ( 258/2500)
+ - Class1:  49, Class2:   6, Class3: 109, Class4:  69, Class5:  25
+Nu = 0.77, error rate: 10.48% ( 262/2500)
+ - Class1:  49, Class2:   6, Class3: 113, Class4:  69, Class5:  25
+Nu = 0.78, error rate: 10.68% ( 267/2500)
+ - Class1:  50, Class2:   6, Class3: 115, Class4:  71, Class5:  25
+Nu = 0.79, error rate: 10.76% ( 269/2500)
+ - Class1:  50, Class2:   6, Class3: 116, Class4:  71, Class5:  26
+Nu = 0.80, error rate: 10.92% ( 273/2500)
+ - Class1:  50, Class2:   6, Class3: 120, Class4:  71, Class5:  26
+Nu = 0.81, error rate: 11.08% ( 277/2500)
+ - Class1:  50, Class2:   6, Class3: 123, Class4:  72, Class5:  26
+Nu = 0.82, error rate: 11.12% ( 278/2500)
+ - Class1:  50, Class2:   6, Class3: 122, Class4:  74, Class5:  26
+Nu = 0.83, error rate: 11.24% ( 281/2500)
+ - Class1:  51, Class2:   6, Class3: 123, Class4:  74, Class5:  27
+Nu = 0.84, error rate: 11.36% ( 284/2500)
+ - Class1:  53, Class2:   5, Class3: 124, Class4:  75, Class5:  27
+Nu = 0.85, error rate: 11.64% ( 291/2500)
+ - Class1:  54, Class2:   5, Class3: 127, Class4:  78, Class5:  27
+Nu = 0.86, error rate: 11.64% ( 291/2500)
+ - Class1:  54, Class2:   5, Class3: 127, Class4:  79, Class5:  26
+Nu = 0.87, error rate: 11.80% ( 295/2500)
+ - Class1:  54, Class2:   5, Class3: 130, Class4:  79, Class5:  27
+Nu = 0.88, error rate: 12.16% ( 304/2500)
+ - Class1:  55, Class2:   5, Class3: 133, Class4:  82, Class5:  29
+Nu = 0.89, error rate: 12.40% ( 310/2500)
+ - Class1:  55, Class2:   5, Class3: 135, Class4:  85, Class5:  30
+Nu = 0.90, error rate: 12.52% ( 313/2500)
+ - Class1:  55, Class2:   5, Class3: 135, Class4:  88, Class5:  30
+Nu = 0.91, error rate: 12.76% ( 319/2500)
+ - Class1:  56, Class2:   5, Class3: 137, Class4:  90, Class5:  31
+Nu = 0.92, error rate: 12.96% ( 324/2500)
+ - Class1:  56, Class2:   4, Class3: 139, Class4:  92, Class5:  33
+Nu = 0.93, error rate: 13.20% ( 330/2500)
+ - Class1:  59, Class2:   4, Class3: 141, Class4:  92, Class5:  34
+Nu = 0.94, error rate: 13.52% ( 338/2500)
+ - Class1:  59, Class2:   4, Class3: 146, Class4:  96, Class5:  33
+Nu = 0.95, error rate: 13.80% ( 345/2500)
+ - Class1:  59, Class2:   4, Class3: 149, Class4:  98, Class5:  35
+Nu = 0.96, error rate: 14.40% ( 360/2500)
+ - Class1:  64, Class2:   4, Class3: 157, Class4: 101, Class5:  34
+Nu = 0.97, error rate: 15.08% ( 377/2500)
+ - Class1:  67, Class2:   4, Class3: 162, Class4: 106, Class5:  38
+Nu = 0.98, error rate: 15.72% ( 393/2500)
+ - Class1:  71, Class2:   4, Class3: 168, Class4: 110, Class5:  40
+Nu = 0.99, error rate: 16.80% ( 420/2500)
+ - Class1:  76, Class2:   3, Class3: 173, Class4: 122, Class5:  46
+Nu = 1.00, error rate: 80.00% (2000/2500)
+ - Class1: 500, Class2: 500, Class3: 500, Class4: 500, Class5:   0
